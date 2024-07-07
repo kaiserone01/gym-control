@@ -8784,7 +8784,7 @@ if (! empty ( $all_notice ))
 
 
 
-																	<a href="<?php echo admin_url().'admin.php?page=gmgt_payment&tab=addincome'; ?>" class="btn save_btn event_for_alert line_height_31px"><?php esc_html_e('ADD Invoice','gym_mgt');?></a>
+																	<a href="<?php echo admin_url().'admin.php?page=gmgt_payment&tab=addincome'; ?>" class="btn save_btn event_for_alert line_height_31px"><?php esc_html_e('Add Invoice','gym_mgt');?></a>
 
 
 
@@ -10488,7 +10488,7 @@ if (! empty ( $all_notice ))
 
 
 
-																<a href="<?php echo admin_url().'admin.php?page=gmgt_membership_type&tab=addmembership'; ?>" class="btn save_btn event_for_alert line_height_31px"><?php esc_html_e('ADD Activity','gym_mgt');?></a>
+																<a href="<?php echo admin_url().'admin.php?page=gmgt_membership_type&tab=addmembership'; ?>" class="btn save_btn event_for_alert line_height_31px"><?php esc_html_e('Add Activity','gym_mgt');?></a>
 
 
 
@@ -10784,7 +10784,7 @@ if (! empty ( $all_notice ))
 
 
 
-																<a href="<?php echo admin_url().'admin.php?page=gmgt_activity&tab=addactivity'; ?>" class="btn save_btn event_for_alert line_height_31px"><?php esc_html_e('ADD Activity','gym_mgt');?></a>
+																<a href="<?php echo admin_url().'admin.php?page=gmgt_activity&tab=addactivity'; ?>" class="btn save_btn event_for_alert line_height_31px"><?php esc_html_e('Add Activity','gym_mgt');?></a>
 
 
 
@@ -11560,7 +11560,7 @@ if (! empty ( $all_notice ))
 
 
 
-																<a href="<?php echo admin_url().'admin.php?page=Gmgt_message&tab=compose'; ?>" class="btn save_btn event_for_alert line_height_31px"><?php esc_html_e('ADD Message','gym_mgt');?></a>
+																<a href="<?php echo admin_url().'admin.php?page=Gmgt_message&tab=compose'; ?>" class="btn save_btn event_for_alert line_height_31px"><?php esc_html_e('Add Message','gym_mgt');?></a>
 
 
 
