@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Home One were successfully downloaded!
+Initial max execution time = 480
+Files info:
+Site URL = https://gym.zipnegocios.com
+Data file = /home/u593366054/domains/zipnegocios.com/public_html/gym/wp-content/themes/fitnase//inc/demo-content/content.xml
+Widget file = /home/u593366054/domains/zipnegocios.com/public_html/gym/wp-content/themes/fitnase//inc/demo-content/widgets.wie
+Customizer file = /home/u593366054/domains/zipnegocios.com/public_html/gym/wp-content/themes/fitnase//inc/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Búsqueda - No Title - Imported
+Categorías - No Title - Imported
+Fitnase : Recent Posts - Recent Posts - Imported
+Nube de etiquetas - Tags - Imported
+Fitnase : CTA Button - No Title - Imported
+Fitnase : Contact Form Widget - Send A Message - Imported
+
+Service Sidebar : 
+
+Búsqueda - No Title - Imported
+Menú de navegación - Popular Services - Imported
+Fitnase : Contact Form Widget - Send A Message - Imported
+
+Footer Widget : 
+
+Fitnase : About Company Widget  - No Title - Imported
+Fitnase : Navigation Menu - Quick Links - Imported
+Fitnase : Contact Info Widget  - Contact Info - Imported
+Fitnase : Gallery Widget  - Photo Gallery - Imported
+
+Shop Sidebar : 
+
+Cart - Cart - Imported
+Products list - Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

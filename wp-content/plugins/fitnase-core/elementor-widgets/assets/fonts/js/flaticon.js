@@ -1,0 +1,34 @@
+{
+    "icons"
+:
+    [
+        "flaticon-muscle",
+        "flaticon-exercise",
+        "flaticon-stationary-bike",
+        "flaticon-exercise-1",
+        "flaticon-weightlifter",
+        "flaticon-tape-measure",
+        "flaticon-dumbbell",
+        "flaticon-hand-grip",
+        "flaticon-skipping-rope",
+        "flaticon-dumbbell-1",
+        "flaticon-exercise-2",
+        "flaticon-fitness",
+        "flaticon-dancing",
+        "flaticon-fitness-1",
+        "flaticon-gym",
+        "flaticon-dumbbell-2",
+        "flaticon-strongman",
+        "flaticon-muscular-bodybuilder-with-clock",
+        "flaticon-muscular",
+        "flaticon-muscles",
+        "flaticon-abs",
+        "flaticon-weightlifting",
+        "flaticon-telephone",
+        "flaticon-email",
+        "flaticon-pin",
+        "flaticon-right-arrow",
+        "flaticon-shopping-cart"
+
+    ]
+}

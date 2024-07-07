@@ -1,0 +1,1265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Directory Pro\n"
+"POT-Creation-Date: 2019-03-12 21:54+0600\n"
+"PO-Revision-Date: 2019-03-12 21:54+0600\n"
+"Last-Translator: \n"
+"Language-Team: e-plugins <aktar567@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/files/js/jquery-ui.min.js:8
+msgid "'"
+msgstr ""
+
+#: admin/pages/dashboard.php:9
+msgid "ep_fitness Affiliate Dashboard"
+msgstr ""
+
+#: admin/pages/dashboard.php:10
+msgid "Your Dashboard, Summary, Status, Shortcuts to modules"
+msgstr ""
+
+#: admin/pages/dir_setting.php:20
+msgid "Settings"
+msgstr ""
+
+#: admin/pages/dir_setting.php:30
+msgid "Color Options"
+msgstr ""
+
+#: admin/pages/dir_setting.php:40
+msgid "Plugin Color"
+msgstr ""
+
+#: admin/pages/dir_setting.php:50
+msgid "Single Page Done Option"
+msgstr ""
+
+#: admin/pages/dir_setting.php:60
+msgid "Done Button"
+msgstr ""
+
+#: admin/pages/dir_setting.php:64
+msgid "Show  Done Button"
+msgstr ""
+
+#: admin/pages/dir_setting.php:69
+msgid "Hide Done Button"
+msgstr ""
+
+#: admin/pages/dir_setting.php:74
+msgid "Training Calendar view Option "
+msgstr ""
+
+#: admin/pages/dir_setting.php:84
+msgid "Training calendar View Days"
+msgstr ""
+
+#: admin/pages/dir_setting.php:95
+msgid "Cron Job"
+msgstr ""
+
+#: admin/pages/dir_setting.php:98 admin/pages/settings.php:582
+msgid "Cron Job URL"
+msgstr ""
+
+#: admin/pages/dir_setting.php:120 admin/pages/post_type.php:106
+#: admin/pages/post_type.php:201 admin/pages/profile-fields.php:24
+#: admin/pages/profile-fields.php:365 admin/pages/protected_page.php:155
+#: admin/pages/report_pdf_fields.php:158
+#: template/private-profile/all-save-records.php:228
+msgid "Update"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:7
+msgid "My Account"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:18
+msgid "Short Code"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:26
+msgid "Php Code"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:35
+msgid "My Account Page"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:43
+msgid "View Page"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:49
+msgid "Profile Fields Setting"
+msgstr ""
+
+#: admin/pages/metabox.php:56
+msgid "Only for the user role"
+msgstr ""
+
+#: admin/pages/metabox.php:68
+msgid "Only specific users"
+msgstr ""
+
+#: admin/pages/metabox.php:80
+msgid "Woocommerce Products"
+msgstr ""
+
+#: admin/pages/metabox.php:115
+msgid "Select your specific users :"
+msgstr ""
+
+#: admin/pages/metabox.php:146
+msgid "Select Products, The product buyer will get the content access :"
+msgstr ""
+
+#: admin/pages/metabox.php:178 template/private-profile/listing-edit.php:306
+#: template/private-profile/new-listing.php:303
+msgid "Post for the Day"
+msgstr ""
+
+#: admin/pages/metabox.php:184
+msgid ""
+" Note : You can get more content restriction setting for a specific  user,  "
+msgstr ""
+
+#: admin/pages/package_all.php:184 admin/pages/package_create.php:96
+#: template/private-profile/profile-level-1.php:241
+#: template/private-profile/profile-level-1.php:304
+#: template/signup/iv_stripe_form_2.php:21 template/signup/paypal_form_2.php:3
+#: template/signup/woocommerce.php:3
+msgid "Package Name"
+msgstr ""
+
+#: admin/pages/package_all.php:185
+#: template/private-profile/profile-level-1.php:277
+#: template/private-profile/profile-level-1.php:340
+#: template/signup/iv_stripe_form_2.php:74 template/signup/paypal_form_2.php:73
+#: template/signup/woocommerce.php:74
+msgid "Amount"
+msgstr ""
+
+#: admin/pages/package_all.php:186 admin/pages/profile-fields.php:44
+msgid "Link"
+msgstr ""
+
+#: admin/pages/package_all.php:187
+#: template/private-profile/profile-level-1.php:165
+msgid "User Role"
+msgstr ""
+
+#: admin/pages/package_all.php:188
+msgid "Status"
+msgstr ""
+
+#: admin/pages/package_all.php:189 admin/pages/post_type.php:44
+#: admin/pages/profile-fields.php:47 admin/pages/profile-fields.php:276
+#: admin/pages/report_pdf_fields.php:91
+#: admin/pages/user_directory_admin.php:130
+msgid "Action"
+msgstr ""
+
+#: admin/pages/package_create.php:72 admin/pages/package_create.php:362
+msgid "Save Package"
+msgstr ""
+
+#: admin/pages/package_create.php:76
+msgid "Create Package / Membership Level"
+msgstr ""
+
+#: admin/pages/package_create.php:111 admin/pages/package_update.php:114
+msgid "Select A Trainer"
+msgstr ""
+
+#: admin/pages/package_create.php:115 admin/pages/package_update.php:118
+msgid "Site Admin"
+msgstr ""
+
+#: admin/pages/package_create.php:125 admin/pages/package_update.php:130
+msgid "The trainer(user) can add plans for the package clients"
+msgstr ""
+
+#: admin/pages/package_create.php:130
+msgid "Package Feature List"
+msgstr ""
+
+#: admin/pages/package_create.php:133
+msgid "It will display on price list table"
+msgstr ""
+
+#: admin/pages/package_create.php:137
+msgid "Order"
+msgstr ""
+
+#: admin/pages/package_create.php:145
+msgid "Billing Details"
+msgstr ""
+
+#: admin/pages/package_create.php:148
+msgid "Initial Payment"
+msgstr ""
+
+#: admin/pages/package_create.php:151
+msgid "The initial amount collected at user registration."
+msgstr ""
+
+#: admin/pages/package_create.php:156
+msgid "Package Expire After"
+msgstr ""
+
+#: admin/pages/package_create.php:191
+msgid ""
+"If select none then user package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. \"Billing Cycle Limit\" will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: admin/pages/package_create.php:198
+msgid "Recurring Subscription"
+msgstr ""
+
+#: admin/pages/package_create.php:201
+msgid "Enable Recurring Payment"
+msgstr ""
+
+#: admin/pages/package_create.php:208 admin/pages/package_update.php:214
+msgid "One time subscription fee"
+msgstr ""
+
+#: admin/pages/package_create.php:215
+msgid "Billing Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:219
+msgid "Per"
+msgstr ""
+
+#: admin/pages/package_create.php:233
+msgid "The \"Billing Amount\" will Collect at User Registration."
+msgstr ""
+
+#: admin/pages/package_create.php:241
+msgid "Billing Cycle Limit"
+msgstr ""
+
+#: admin/pages/package_create.php:264
+msgid "Trial"
+msgstr ""
+
+#: admin/pages/package_create.php:267
+msgid "Enable Trial Period"
+msgstr ""
+
+#: admin/pages/package_create.php:270
+msgid "\"Billing Amount\" will Collect After Trial Period. "
+msgstr ""
+
+#: admin/pages/package_create.php:278
+msgid "Trial Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:281
+msgid ""
+"Amount to Bill for The Trial Period. Free is 0.[Stripe will not support this "
+"option ]"
+msgstr ""
+
+#: admin/pages/package_create.php:286
+msgid "Trial Period"
+msgstr ""
+
+#: admin/pages/package_create.php:316
+msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed."
+msgstr ""
+
+#: admin/pages/package_create.php:333 admin/pages/package_update.php:335
+msgid "Woocommerce Product"
+msgstr ""
+
+#: admin/pages/post_type.php:24
+msgid "Custom Post Type"
+msgstr ""
+
+#: admin/pages/post_type.php:30
+msgid "Custom Post type list"
+msgstr ""
+
+#: admin/pages/post_type.php:38
+msgid "Post Type Name"
+msgstr ""
+
+#: admin/pages/post_type.php:41 admin/pages/profile-fields.php:266
+#: admin/pages/report_pdf_fields.php:88
+msgid "Display Label"
+msgstr ""
+
+#: admin/pages/post_type.php:98 admin/pages/profile-fields.php:248
+#: admin/pages/profile-fields.php:353 admin/pages/report_pdf_fields.php:150
+msgid "Add More"
+msgstr ""
+
+#: admin/pages/post_type.php:120
+msgid "Custom Post Type Page Setting"
+msgstr ""
+
+#: admin/pages/post_type.php:126
+msgid "Select Your Custom Post Type Single/Detail Page"
+msgstr ""
+
+#: admin/pages/profile-fields.php:29
+msgid "Update Profile Setting"
+msgstr ""
+
+#: admin/pages/profile-fields.php:36
+msgid "My Account Menu"
+msgstr ""
+
+#: admin/pages/profile-fields.php:41
+msgid "Menu Title / Label"
+msgstr ""
+
+#: admin/pages/profile-fields.php:59
+#: template/private-profile/profile-level-1.php:10
+#: template/private-profile/profile-template-1.php:170
+msgid "Membership Level"
+msgstr ""
+
+#: admin/pages/profile-fields.php:84
+#: template/private-profile/profile-template-1.php:151
+msgid "Account Settings"
+msgstr ""
+
+#: admin/pages/profile-fields.php:107
+msgid "All Records"
+msgstr ""
+
+#: admin/pages/profile-fields.php:131
+msgid "Add Records"
+msgstr ""
+
+#: admin/pages/profile-fields.php:155
+#: template/private-profile/trainer_menu.php:22
+msgid "Add Report"
+msgstr ""
+
+#: admin/pages/profile-fields.php:178 template/private-profile/my-report.php:5
+msgid "My Report"
+msgstr ""
+
+#: admin/pages/profile-fields.php:221 admin/pages/profile-fields.php:236
+#: admin/pages/profile-fields.php:338 admin/pages/report_pdf_fields.php:138
+#: admin/pages/user_directory_admin.php:173
+#: template/private-profile/all-save-report.php:156
+#: template/private-profile/my-report.php:89
+msgid "Delete"
+msgstr ""
+
+#: admin/pages/profile-fields.php:256
+msgid "User Profile Fields +Signup Form Fields"
+msgstr ""
+
+#: admin/pages/profile-fields.php:263
+msgid "User Meta Name"
+msgstr ""
+
+#: admin/pages/profile-fields.php:269
+msgid "Signup Form"
+msgstr ""
+
+#: admin/pages/profile-fields.php:272
+msgid "Require"
+msgstr ""
+
+#: admin/pages/protected_page.php:20
+msgid "Pages Restriction By Roles"
+msgstr ""
+
+#: admin/pages/protected_page.php:44
+msgid "Page Visibility Module :"
+msgstr ""
+
+#: admin/pages/protected_page.php:47
+msgid "Show Page By Role Access"
+msgstr ""
+
+#: admin/pages/protected_page.php:52
+msgid "Show All"
+msgstr ""
+
+#: admin/pages/protected_page.php:58
+msgid "Select which pages are available for each user role.\t"
+msgstr ""
+
+#: admin/pages/protected_page.php:83
+msgid "Check/Uncheck"
+msgstr ""
+
+#: admin/pages/record_fields.php:24
+msgid "Record Fields"
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:25 admin/pages/report_pdf_fields.php:35
+msgid "Report Fields"
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:43
+msgid "Report Title"
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:56
+msgid "Who can create/add Report"
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:68
+msgid " Only Trainer+ Admin can add report for user"
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:78
+msgid " User can add his/her own report (Trainer + Admin too) "
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:85
+msgid "Post Meta Name"
+msgstr ""
+
+#: admin/pages/settings.php:31
+msgid "Page"
+msgstr ""
+
+#: admin/pages/settings.php:33
+msgid "Color/Settings"
+msgstr ""
+
+#: admin/pages/settings.php:35
+msgid "Payment Page"
+msgstr ""
+
+#: admin/pages/settings.php:36 admin/pages/user_directory_admin.php:125
+#: template/private-profile/profile-login.php:104
+msgid "Email"
+msgstr ""
+
+#: admin/pages/settings.php:37
+msgid "MailChimp"
+msgstr ""
+
+#: admin/pages/settings.php:38
+msgid "Page Redirect"
+msgstr ""
+
+#: admin/pages/settings.php:41
+msgid "Protected Page"
+msgstr ""
+
+#: admin/pages/update.php:9
+msgid "Update Products"
+msgstr ""
+
+#: admin/pages/update.php:10
+msgid "Synchronize your Products from Amazon with latest data"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:10
+msgid "User Setting"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:122
+msgid "ID"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:123
+msgid "Create Date"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:124
+msgid "User Name"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:126
+msgid "Expiry Date"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:127
+#: template/private-profile/profile-level-1.php:103
+msgid "Payment Status"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:128
+msgid "Role"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:129 plugin.php:535 plugin.php:557
+#: plugin.php:579 plugin.php:601 plugin.php:623 plugin.php:645
+msgid "Content"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:172
+#: template/private-profile/all-save-report.php:153
+#: template/private-profile/my-report.php:86
+msgid "Edit"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:198
+#: template/user-directory/directory-template-1.php:481
+#: template/user-directory/directory-template-2.php:224
+msgid "&laquo; Previous"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:199
+#: template/user-directory/directory-template-1.php:482
+#: template/user-directory/directory-template-2.php:225
+msgid "Next &raquo;"
+msgstr ""
+
+#: admin/pages/user_update.php:168
+msgid "Role Content Only"
+msgstr ""
+
+#: admin/pages/user_update.php:172
+msgid "Specific Content Only"
+msgstr ""
+
+#: admin/pages/user_update.php:177
+msgid "Woocommerce Content"
+msgstr ""
+
+#: admin/pages/user_update.php:181
+msgid "All Content [Role,Specific User, Woocommerce]"
+msgstr ""
+
+#: plugin.php:333 plugin.php:469
+msgid "Parent Item:"
+msgstr ""
+
+#: plugin.php:334 plugin.php:470
+msgid "All Items"
+msgstr ""
+
+#: plugin.php:335 plugin.php:471
+msgid "Add New Item"
+msgstr ""
+
+#: plugin.php:336 plugin.php:472
+msgid "Add New"
+msgstr ""
+
+#: plugin.php:337 plugin.php:473
+msgid "New Item"
+msgstr ""
+
+#: plugin.php:338 plugin.php:474
+msgid "Edit Item"
+msgstr ""
+
+#: plugin.php:339 plugin.php:475
+msgid "Update Item"
+msgstr ""
+
+#: plugin.php:340 plugin.php:476
+msgid "View Item"
+msgstr ""
+
+#: plugin.php:341 plugin.php:477
+msgid "Search Item"
+msgstr ""
+
+#: plugin.php:342 plugin.php:478
+msgid "Not found"
+msgstr ""
+
+#: plugin.php:343 plugin.php:479
+msgid "Not found in Trash"
+msgstr ""
+
+#: plugin.php:401
+msgid "Categories"
+msgstr ""
+
+#: plugin.php:440
+msgid "Tags"
+msgstr ""
+
+#: plugin.php:467
+msgid "Physical Record"
+msgstr ""
+
+#: plugin.php:531
+msgid "Pricing Table"
+msgstr ""
+
+#: plugin.php:543 plugin.php:565 plugin.php:587 plugin.php:609
+msgid "Style Name"
+msgstr ""
+
+#: plugin.php:545 plugin.php:567 plugin.php:589 plugin.php:611 plugin.php:655
+msgid "Default"
+msgstr ""
+
+#: plugin.php:546
+msgid "You can select the style from wp-admin e.g : style-1."
+msgstr ""
+
+#: plugin.php:553
+msgid "Signup "
+msgstr ""
+
+#: plugin.php:568 plugin.php:590
+msgid "."
+msgstr ""
+
+#: plugin.php:575
+msgid "My Acount "
+msgstr ""
+
+#: plugin.php:597
+msgid "Public Profile "
+msgstr ""
+
+#: plugin.php:612
+msgid "You can select the style from wp-admin e.g : style-1 , style-2 "
+msgstr ""
+
+#: plugin.php:619
+msgid "User Directory "
+msgstr ""
+
+#: plugin.php:631
+msgid "Show  number of user / Page"
+msgstr ""
+
+#: plugin.php:633
+msgid "12"
+msgstr ""
+
+#: plugin.php:634
+msgid "You can set the number : 10,20 "
+msgstr ""
+
+#: plugin.php:641 template/private-profile/profile-login.php:55
+msgid "Login"
+msgstr ""
+
+#: plugin.php:653
+msgid " Login"
+msgstr ""
+
+#: plugin.php:656
+msgid "Default "
+msgstr ""
+
+#: plugin.php:711 plugin.php:1859
+msgid "Any Category"
+msgstr ""
+
+#: plugin.php:1359
+msgid " Assign the Post"
+msgstr ""
+
+#: plugin.php:2044
+msgid "Sorry, BootstrapPress re requires WordPress "
+msgstr ""
+
+#: template/pdf/pdf_report.php:90
+msgid "Client Name"
+msgstr ""
+
+#: template/pdf/pdf_report.php:98 template/private-profile/edit_report.php:86
+#: template/private-profile/listing-edit.php:94
+#: template/private-profile/new_report.php:76
+#: template/private-profile/profile-new-record.php:39
+#: template/private-profile/profile-new-record.php:41
+#: template/private-profile/profile-record-edit.php:73
+#: template/private-profile/profile-record-edit.php:75
+#: template/private-profile/record-edit-pt.php:96
+#: template/private-profile/record-edit-pt.php:98
+#: template/private-profile/record-new-pt.php:100
+#: template/private-profile/record-new-pt.php:102
+msgid "Date"
+msgstr ""
+
+#: template/price-table/price-table-1.php:71
+msgid "Month"
+msgstr ""
+
+#: template/price-table/price-table-1.php:72
+msgid "Week"
+msgstr ""
+
+#: template/price-table/price-table-1.php:73
+#: template/private-profile/training-calendar-pt.php:135
+#: template/private-profile/training-calendar.php:154
+msgid "Day"
+msgstr ""
+
+#: template/price-table/price-table-1.php:74
+msgid "year"
+msgstr ""
+
+#: template/price-table/price-table-1.php:104
+#: template/private-profile/profile-level-1.php:69
+msgid "Free"
+msgstr ""
+
+#: template/price-table/price-table-1.php:114
+#: template/price-table/price-table-1.php:116
+msgid " Per "
+msgstr ""
+
+#: template/price-table/price-table-1.php:116
+msgid "s"
+msgstr ""
+
+#: template/price-table/price-table-1.php:152
+msgid "Sign up"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:20
+#: template/private-profile/all-save-records.php:21
+#: template/private-profile/new-listing.php:14
+#: template/private-profile/post-list-pt.php:55
+#: template/private-profile/record-edit-pt.php:21
+#: template/private-profile/record-new-pt.php:21
+msgid "<h1>Access Denied</h1> "
+msgstr ""
+
+#: template/private-profile/all-save-post.php:28
+msgid "Clients Plan"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:32
+msgid "Add New Client Plan"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:41
+msgid "Client"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:78
+#: template/private-profile/new-listing.php:67
+msgid "Post Type"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:106
+msgid "Search"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:30
+msgid "Deleted Successfully"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:39
+msgid "Saved Record"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:43
+#: template/private-profile/profile-all-record.php:36
+msgid "Add New Record"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:73
+#: template/private-profile/record-new-pt.php:63
+msgid "Record For"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:219
+#: template/private-profile/profile-all-record.php:140
+msgid "Expert Review:"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:5
+msgid "Saved Report"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:9
+#: template/private-profile/my-report.php:14
+msgid "Add New Report"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:40
+#: template/private-profile/edit_report.php:46
+#: template/private-profile/new_report.php:37
+msgid "Report For"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:145
+#: template/private-profile/my-report.php:73
+msgid "Report"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:161
+#: template/private-profile/my-report.php:100
+msgid "View / Download"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:186
+#: template/private-profile/my-report.php:122
+msgid "Do you want to delete the report?"
+msgstr ""
+
+#: template/private-profile/comments.php:2
+msgid "Comments & Feedback"
+msgstr ""
+
+#: template/private-profile/comments.php:15
+msgid "Processing..."
+msgstr ""
+
+#: template/private-profile/comments.php:25
+msgid "Posting too quickly."
+msgstr ""
+
+#: template/private-profile/comments.php:29
+msgid "Thanks for your comment. We appreciate your response."
+msgstr ""
+
+#: template/private-profile/comments.php:32
+msgid "Please wait a while before posting your next comment"
+msgstr ""
+
+#: template/private-profile/comments.php:125
+msgid "Send"
+msgstr ""
+
+#: template/private-profile/done_shortcode.php:26
+#: template/private-profile/profile-single-post.php:98
+msgid "You have successfully completed the "
+msgstr ""
+
+#: template/private-profile/done_shortcode.php:28
+#: template/private-profile/profile-single-post.php:101
+msgid "Done"
+msgstr ""
+
+#: template/private-profile/done_shortcode.php:52
+#: template/private-profile/profile-single-post.php:129
+msgid "You have successfully completed the training."
+msgstr ""
+
+#: template/private-profile/edit_report.php:24
+#: template/private-profile/new_report.php:16
+msgid "Access denied"
+msgstr ""
+
+#: template/private-profile/edit_report.php:33
+msgid "Edit Report"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:11
+msgid "Edit Post"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:42
+msgid "Access Denied "
+msgstr ""
+
+#: template/private-profile/listing-edit.php:58
+msgid "Psot Type"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:86
+#: template/private-profile/new-listing.php:94
+msgid "Name/Title"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:88
+msgid "Enter listing Name Here"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:129
+#: template/private-profile/new-listing.php:138
+msgid "Feature Image"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:154
+#: template/private-profile/new-listing.php:171
+msgid "Category"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:169
+#: template/private-profile/new-listing.php:179
+msgid "Choose a category"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:278
+#: template/private-profile/new-listing.php:281
+msgid "Select your specific users : Hold shift to select more than 1 user"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:325
+#: template/private-profile/new-listing.php:316
+msgid "Save Post"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:384
+#: template/private-profile/new-listing.php:367
+msgid "Set Feature Image "
+msgstr ""
+
+#: template/private-profile/listing-edit.php:386
+#: template/private-profile/new-listing.php:369
+msgid "Set Feature Image"
+msgstr ""
+
+#: template/private-profile/new-listing.php:24
+msgid "New Post"
+msgstr ""
+
+#: template/private-profile/new-listing.php:96
+msgid "Enter Name Here"
+msgstr ""
+
+#: template/private-profile/new-listing.php:157
+msgid "Post Status"
+msgstr ""
+
+#: template/private-profile/new-listing.php:161
+msgid "Publish"
+msgstr ""
+
+#: template/private-profile/new_report.php:24
+msgid "New Report"
+msgstr ""
+
+#: template/private-profile/post-list-pt.php:83
+#: template/private-profile/post-list.php:81
+msgid "All"
+msgstr ""
+
+#: template/private-profile/post-list-pt.php:196
+#: template/private-profile/post-list.php:194
+msgid "VIEW DETAIL"
+msgstr ""
+
+#: template/private-profile/post-list-pt.php:219
+#: template/private-profile/post-list.php:213
+#: template/private-profile/training-calendar-pt.php:148
+#: template/private-profile/training-calendar.php:167
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: template/private-profile/profile-all-record.php:32
+#: template/private-profile/profile-template-1.php:187
+msgid "My Records"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:14
+msgid "Current"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:17
+#: template/private-profile/profile-level-1.php:291
+#: template/private-profile/profile-level-1.php:354
+msgid "Upgrade"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:20
+msgid "Cancel"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:43
+msgid "Current Package"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:52
+#: template/private-profile/profile-level-1.php:55
+msgid "None"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:63
+msgid "Package Amount"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:93
+msgid "Package Type"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:140
+msgid "Completed"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:143
+msgid "Processing"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:185
+msgid "Exprie Date"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:207
+msgid "Next Payment Date"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:380
+msgid ""
+"Note: Your Successful Upgrade or Downgrade will affect on your user role "
+"immediately."
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:396
+#: template/private-profile/profile-level-1.php:435
+msgid "Cancel Reason"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:397
+#: template/private-profile/profile-level-1.php:436
+msgid "Canceling Reason"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:403
+#: template/private-profile/profile-level-1.php:441
+msgid "Cancel Membership"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:413
+#: template/private-profile/profile-level-1.php:450
+msgid "Nothing to Cancel"
+msgstr ""
+
+#: template/private-profile/profile-login.php:26
+msgid "Sign In"
+msgstr ""
+
+#: template/private-profile/profile-login.php:35
+#: template/private-profile/profile-login.php:38
+msgid "Username"
+msgstr ""
+
+#: template/private-profile/profile-login.php:45
+#: template/private-profile/profile-login.php:48
+msgid "Password"
+msgstr ""
+
+#: template/private-profile/profile-login.php:59
+msgid "Remember"
+msgstr ""
+
+#: template/private-profile/profile-login.php:62
+msgid "Forgot Password?"
+msgstr ""
+
+#: template/private-profile/profile-login.php:82
+msgid "Are you a new user?"
+msgstr ""
+
+#: template/private-profile/profile-login.php:83
+msgid "Create an account"
+msgstr ""
+
+#: template/private-profile/profile-login.php:92
+msgid "Forget Password ?"
+msgstr ""
+
+#: template/private-profile/profile-login.php:98
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: template/private-profile/profile-login.php:108
+msgid "Back"
+msgstr ""
+
+#: template/private-profile/profile-login.php:109
+#: template/signup/iv_stripe_form_2.php:176
+#: template/signup/paypal_form_2.php:149 template/signup/paypal_form_2.php:155
+#: template/signup/wizard-style-2.php:220 template/signup/woocommerce.php:133
+#: template/signup/woocommerce.php:139
+msgid "Submit"
+msgstr ""
+
+#: template/private-profile/profile-login.php:149
+msgid "Enter Email Address"
+msgstr ""
+
+#: template/private-profile/profile-login.php:174
+msgid "Invalid Username & Password"
+msgstr ""
+
+#: template/private-profile/profile-login.php:181
+msgid "Enter Username & Password"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:6
+#: template/private-profile/record-new-pt.php:27
+msgid "New Record"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:17
+#: template/private-profile/profile-record-edit.php:35
+#: template/private-profile/record-edit-pt.php:58
+#: template/private-profile/record-new-pt.php:78
+msgid "Image"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:33
+#: template/private-profile/profile-record-edit.php:67
+#: template/private-profile/record-edit-pt.php:90
+#: template/private-profile/record-new-pt.php:94
+msgid "Week #"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:35
+#: template/private-profile/profile-record-edit.php:69
+#: template/private-profile/record-edit-pt.php:92
+#: template/private-profile/record-new-pt.php:96
+msgid "Enter Week number"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:71
+#: template/private-profile/profile-record-edit.php:105
+#: template/private-profile/profile-setting-1.php:80
+#: template/private-profile/record-edit-pt.php:128
+#: template/private-profile/record-new-pt.php:132
+msgid "Enter"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:82
+#: template/private-profile/record-new-pt.php:143
+msgid "Save Record"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:11
+msgid "Profile"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:15
+msgid "Personal Info"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:18
+#: template/private-profile/profile-setting-1.php:111
+msgid "Change Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:21
+msgid "Social"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:35
+#: template/profile-public/profile-template-2.php:271
+msgid "Image Gallery"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:36
+msgid "Add Images"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:89
+#: template/private-profile/profile-setting-1.php:158
+msgid "Save Changes"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:98
+msgid "Current Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:102
+msgid "New Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:106
+msgid "Re-type New Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:221
+msgid "Gallery Images "
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:223
+msgid "Gallery Images"
+msgstr ""
+
+#: template/private-profile/profile-single-post.php:73
+msgid "Access Denied"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:99
+msgid "Change"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:203
+msgid "My Reports"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:270
+msgid "Sign out"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:448
+#: template/private-profile/profile-template-1.php:450
+msgid "Profile Image"
+msgstr ""
+
+#: template/private-profile/trainer_menu.php:4
+msgid "Client Plans"
+msgstr ""
+
+#: template/private-profile/trainer_menu.php:10
+msgid "Client Records"
+msgstr ""
+
+#: template/private-profile/trainer_menu.php:16
+msgid "Client Reports"
+msgstr ""
+
+#: template/private-profile/trainer_menu.php:27
+msgid "Add Plan"
+msgstr ""
+
+#: template/private-profile/trainer_menu.php:32
+msgid "Add Record"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:125
+msgid "About"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:5
+msgid "Discount Coupon"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:13
+msgid "(-) Discount"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:20
+msgid "Total"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:86 template/signup/paypal_form_2.php:88
+#: template/signup/wizard-style-2.php:435
+msgid "Have a coupon?"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:96
+msgid "Card Number"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:102
+msgid "Card CVV "
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:109
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:155
+msgid "Enter User Name"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:162
+msgid "Enter email address"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:431
+msgid "Hide Coupon"
+msgstr ""

@@ -1,0 +1,1365 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fitnase Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-07 07:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.7.2\n"
+"X-Domain: fitnase-core"
+
+#: inc/widgets/custom-navigation-widget.php:82
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:86 elementor-widgets/recent-posts.php:101
+#: elementor-widgets/service-box.php:143 elementor-widgets/service-box.php:158
+#: elementor-widgets/service-box.php:173 elementor-widgets/service-box.php:188
+#: elementor-widgets/photo-gallery.php:152
+#: elementor-widgets/photo-gallery.php:169
+#: elementor-widgets/photo-gallery.php:186
+#: elementor-widgets/contact-info-widget.php:144
+#: elementor-widgets/contact-info-widget.php:159
+#: elementor-widgets/contact-info-widget.php:174
+#: elementor-widgets/contact-info-widget.php:189
+#: elementor-widgets/brand-image-slider.php:179
+#: elementor-widgets/brand-image-slider.php:202
+#: elementor-widgets/brand-image-slider.php:225
+#: elementor-widgets/brand-image-slider.php:248
+#: elementor-widgets/team-member.php:144 elementor-widgets/team-member.php:159
+#: elementor-widgets/team-member.php:173 elementor-widgets/team-member.php:188
+#: elementor-widgets/icon-box.php:174 elementor-widgets/icon-box.php:189
+#: elementor-widgets/icon-box.php:204 elementor-widgets/icon-box.php:219
+#: elementor-widgets/testimonial.php:147 elementor-widgets/testimonial.php:164
+#: elementor-widgets/home-slider.php:274 elementor-widgets/home-slider.php:297
+#: elementor-widgets/home-slider.php:321 elementor-widgets/home-slider.php:344
+msgid "1 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:188
+#: elementor-widgets/brand-image-slider.php:211
+#: elementor-widgets/brand-image-slider.php:234
+#: elementor-widgets/home-slider.php:283 elementor-widgets/home-slider.php:306
+#: elementor-widgets/home-slider.php:330 elementor-widgets/home-slider.php:353
+msgid "10 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:152
+#: elementor-widgets/home-slider.php:213
+msgid "10 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:189
+#: elementor-widgets/brand-image-slider.php:212
+#: elementor-widgets/brand-image-slider.php:235
+#: elementor-widgets/home-slider.php:284 elementor-widgets/home-slider.php:307
+#: elementor-widgets/home-slider.php:331 elementor-widgets/home-slider.php:354
+msgid "11 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:190
+#: elementor-widgets/brand-image-slider.php:213
+#: elementor-widgets/brand-image-slider.php:236
+#: elementor-widgets/home-slider.php:285 elementor-widgets/home-slider.php:308
+#: elementor-widgets/home-slider.php:332 elementor-widgets/home-slider.php:355
+msgid "12 Column"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:87 elementor-widgets/recent-posts.php:102
+#: elementor-widgets/service-box.php:144 elementor-widgets/service-box.php:159
+#: elementor-widgets/service-box.php:174 elementor-widgets/service-box.php:189
+#: elementor-widgets/photo-gallery.php:153
+#: elementor-widgets/photo-gallery.php:170
+#: elementor-widgets/photo-gallery.php:187
+#: elementor-widgets/contact-info-widget.php:145
+#: elementor-widgets/contact-info-widget.php:160
+#: elementor-widgets/contact-info-widget.php:175
+#: elementor-widgets/contact-info-widget.php:190
+#: elementor-widgets/brand-image-slider.php:180
+#: elementor-widgets/brand-image-slider.php:203
+#: elementor-widgets/brand-image-slider.php:226
+#: elementor-widgets/brand-image-slider.php:249
+#: elementor-widgets/team-member.php:145 elementor-widgets/team-member.php:160
+#: elementor-widgets/team-member.php:174 elementor-widgets/team-member.php:189
+#: elementor-widgets/icon-box.php:175 elementor-widgets/icon-box.php:190
+#: elementor-widgets/icon-box.php:205 elementor-widgets/icon-box.php:220
+#: elementor-widgets/testimonial.php:148 elementor-widgets/testimonial.php:165
+#: elementor-widgets/home-slider.php:275 elementor-widgets/home-slider.php:298
+#: elementor-widgets/home-slider.php:322 elementor-widgets/home-slider.php:345
+msgid "2 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:144
+#: elementor-widgets/home-slider.php:205
+msgid "2 seconds"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:88 elementor-widgets/recent-posts.php:103
+#: elementor-widgets/service-box.php:145 elementor-widgets/service-box.php:160
+#: elementor-widgets/service-box.php:175 elementor-widgets/service-box.php:190
+#: elementor-widgets/photo-gallery.php:154
+#: elementor-widgets/photo-gallery.php:171
+#: elementor-widgets/photo-gallery.php:188
+#: elementor-widgets/contact-info-widget.php:146
+#: elementor-widgets/contact-info-widget.php:161
+#: elementor-widgets/contact-info-widget.php:176
+#: elementor-widgets/contact-info-widget.php:191
+#: elementor-widgets/brand-image-slider.php:181
+#: elementor-widgets/brand-image-slider.php:204
+#: elementor-widgets/brand-image-slider.php:227
+#: elementor-widgets/brand-image-slider.php:250
+#: elementor-widgets/team-member.php:146 elementor-widgets/team-member.php:161
+#: elementor-widgets/team-member.php:175 elementor-widgets/team-member.php:190
+#: elementor-widgets/icon-box.php:176 elementor-widgets/icon-box.php:191
+#: elementor-widgets/icon-box.php:206 elementor-widgets/icon-box.php:221
+#: elementor-widgets/testimonial.php:149 elementor-widgets/testimonial.php:166
+#: elementor-widgets/home-slider.php:276 elementor-widgets/home-slider.php:299
+#: elementor-widgets/home-slider.php:323 elementor-widgets/home-slider.php:346
+msgid "3 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:145
+#: elementor-widgets/home-slider.php:206
+msgid "3 seconds"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:89 elementor-widgets/recent-posts.php:104
+#: elementor-widgets/service-box.php:146 elementor-widgets/service-box.php:161
+#: elementor-widgets/service-box.php:176
+#: elementor-widgets/photo-gallery.php:155
+#: elementor-widgets/photo-gallery.php:172
+#: elementor-widgets/photo-gallery.php:189
+#: elementor-widgets/contact-info-widget.php:147
+#: elementor-widgets/contact-info-widget.php:162
+#: elementor-widgets/contact-info-widget.php:177
+#: elementor-widgets/brand-image-slider.php:182
+#: elementor-widgets/brand-image-slider.php:205
+#: elementor-widgets/brand-image-slider.php:228
+#: elementor-widgets/brand-image-slider.php:251
+#: elementor-widgets/team-member.php:147 elementor-widgets/team-member.php:162
+#: elementor-widgets/team-member.php:176 elementor-widgets/icon-box.php:177
+#: elementor-widgets/icon-box.php:192 elementor-widgets/icon-box.php:207
+#: elementor-widgets/testimonial.php:150 elementor-widgets/testimonial.php:167
+#: elementor-widgets/home-slider.php:277 elementor-widgets/home-slider.php:300
+#: elementor-widgets/home-slider.php:324 elementor-widgets/home-slider.php:347
+msgid "4 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:146
+#: elementor-widgets/home-slider.php:207
+msgid "4 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:183
+#: elementor-widgets/brand-image-slider.php:206
+#: elementor-widgets/brand-image-slider.php:229
+#: elementor-widgets/home-slider.php:278 elementor-widgets/home-slider.php:301
+#: elementor-widgets/home-slider.php:325 elementor-widgets/home-slider.php:348
+msgid "5 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:147
+#: elementor-widgets/home-slider.php:208
+msgid "5 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:184
+#: elementor-widgets/brand-image-slider.php:207
+#: elementor-widgets/brand-image-slider.php:230
+#: elementor-widgets/home-slider.php:279 elementor-widgets/home-slider.php:302
+#: elementor-widgets/home-slider.php:326 elementor-widgets/home-slider.php:349
+msgid "6 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:148
+#: elementor-widgets/home-slider.php:209
+msgid "6 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:185
+#: elementor-widgets/brand-image-slider.php:208
+#: elementor-widgets/brand-image-slider.php:231
+#: elementor-widgets/home-slider.php:280 elementor-widgets/home-slider.php:303
+#: elementor-widgets/home-slider.php:327 elementor-widgets/home-slider.php:350
+msgid "7 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:149
+#: elementor-widgets/home-slider.php:210
+msgid "7 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:186
+#: elementor-widgets/brand-image-slider.php:209
+#: elementor-widgets/brand-image-slider.php:232
+#: elementor-widgets/home-slider.php:281 elementor-widgets/home-slider.php:304
+#: elementor-widgets/home-slider.php:328 elementor-widgets/home-slider.php:351
+msgid "8 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:150
+#: elementor-widgets/home-slider.php:211
+msgid "8 seconds"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:187
+#: elementor-widgets/brand-image-slider.php:210
+#: elementor-widgets/brand-image-slider.php:233
+#: elementor-widgets/home-slider.php:282 elementor-widgets/home-slider.php:305
+#: elementor-widgets/home-slider.php:329 elementor-widgets/home-slider.php:352
+msgid "9 Column"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:151
+#: elementor-widgets/home-slider.php:212
+msgid "9 seconds"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:661
+msgid "Active Dot Color"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:29
+msgid "Add / edit info text from here."
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:8
+msgid "Add a navigation menu to your sidebar."
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:31
+msgid "Add Info"
+msgstr ""
+
+#: inc/register-custom-posts.php:22 inc/register-custom-posts.php:89
+msgid "Add New"
+msgstr ""
+
+#: inc/register-custom-posts.php:87
+msgid "Add New Member"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:53
+msgid "Add New Profile"
+msgstr ""
+
+#: inc/register-custom-posts.php:20
+msgid "Add New Service"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:31
+msgid "Add Slides"
+msgstr ""
+
+#: inc/register-custom-posts.php:88
+msgid "All Members"
+msgstr ""
+
+#: inc/register-custom-posts.php:21
+msgid "All Services"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:247
+msgid "Animation"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:72
+#: elementor-widgets/service-box.php:96
+#: elementor-widgets/brand-image-slider.php:269
+#: elementor-widgets/section-title.php:312 elementor-widgets/team-member.php:97
+#: elementor-widgets/video-popup.php:109 elementor-widgets/icon-box.php:126
+msgid "Animation Duration"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:251
+#: elementor-widgets/photo-gallery.php:289
+msgid "Arrow Background"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:676
+msgid "Arrow Background Color"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:690
+msgid "Arrow Background Hover Color"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:114
+#: elementor-widgets/brand-image-slider.php:128
+#: elementor-widgets/testimonial.php:109 elementor-widgets/home-slider.php:188
+msgid "Autoplay"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:139
+#: elementor-widgets/home-slider.php:200
+msgid "Autoplay Interval"
+msgstr ""
+
+#: elementor-widgets/video-popup.php:139
+msgid "Background"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:99
+#: elementor-widgets/contact-form7-widget.php:230
+#: elementor-widgets/contact-form7-widget.php:277
+#: elementor-widgets/team-member.php:253 elementor-widgets/team-member.php:307
+#: elementor-widgets/icon-box.php:338 elementor-widgets/icon-box.php:371
+#: elementor-widgets/home-slider.php:539 elementor-widgets/home-slider.php:582
+msgid "Background Color"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:93
+msgid "Beginner Pilates"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:114
+#: elementor-widgets/contact-form7-widget.php:112
+#: elementor-widgets/contact-form7-widget.php:242
+#: elementor-widgets/contact-form7-widget.php:289
+#: elementor-widgets/service-box.php:208 elementor-widgets/team-member.php:208
+#: elementor-widgets/home-slider.php:550 elementor-widgets/home-slider.php:593
+msgid "Border Color"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:125
+msgid "Border Color On Focus"
+msgstr ""
+
+#: elementor-widgets/service-box.php:200 elementor-widgets/team-member.php:200
+msgid "Box"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:30
+msgid "Brand Image"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:40
+msgid "Brand Name"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:12
+msgid "Brand Slider"
+msgstr ""
+
+#: elementor-widgets/video-popup.php:149
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor-widgets/video-popup.php:160
+msgid "Button Icon Color"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:86
+msgid "Button One Text"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:98
+msgid "Button One URL"
+msgstr ""
+
+#: elementor-widgets/video-popup.php:60
+msgid "Button Size"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:521
+msgid "Button Style"
+msgstr ""
+
+#: elementor-widgets/pricing-table.php:112
+msgid "Button Text"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:114
+msgid "Button Two Text"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:126
+msgid "Button Two URL"
+msgstr ""
+
+#: elementor-widgets/pricing-table.php:122
+msgid "Button Url"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:50
+msgid "Categories"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:60
+#: elementor-widgets/section-title.php:269
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:30
+msgid "Click \"Add Info\" button to add new Information."
+msgstr ""
+
+#: elementor-widgets/service-box.php:262 elementor-widgets/service-box.php:303
+#: elementor-widgets/service-box.php:324
+#: elementor-widgets/section-title.php:102
+#: elementor-widgets/section-title.php:147
+#: elementor-widgets/section-title.php:206 elementor-widgets/icon-box.php:349
+#: elementor-widgets/icon-box.php:382 elementor-widgets/home-slider.php:397
+#: elementor-widgets/home-slider.php:448 elementor-widgets/home-slider.php:494
+msgid "Color"
+msgstr ""
+
+#: elementor-widgets/video-popup.php:130
+msgid "Colors"
+msgstr ""
+
+#: elementor-widgets/service-box.php:131
+#: elementor-widgets/contact-info-widget.php:132
+#: elementor-widgets/team-member.php:132 elementor-widgets/icon-box.php:162
+msgid "Column"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:147
+#: elementor-widgets/testimonial.php:142
+msgid "Column On Desktop"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:181
+msgid "Column On iPad"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:164
+msgid "Column On iPad Pro"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:159
+msgid "Column On Tablet"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:82
+msgid "Columns On Desktop"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:97
+msgid "Columns On Tablet"
+msgstr ""
+
+#: elementor-widgets/team-details.php:88
+msgid "Contact"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:34
+msgid "Contact Form"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:16
+msgid "Contact Form7"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:12
+msgid "Contact Info"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:262
+msgid "Content"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:363
+msgid "Content Margin"
+msgstr ""
+
+#: elementor-widgets/team-details.php:94
+msgid "Create an Ul list"
+msgstr ""
+
+#: inc/widgets/cta-button-widget.php:31
+msgid "CTA Title"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:243
+#: elementor-widgets/team-member.php:246
+msgid "Default"
+msgstr ""
+
+#: elementor-widgets/service-box.php:61 elementor-widgets/service-box.php:286
+#: elementor-widgets/contact-info-widget.php:104
+#: elementor-widgets/section-title.php:71
+#: elementor-widgets/section-title.php:186 elementor-widgets/icon-box.php:106
+#: elementor-widgets/testimonial.php:72 elementor-widgets/home-slider.php:475
+#: elementor-widgets/team-details.php:70
+#: inc/widgets/about-company-widget.php:39
+msgid "Description"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:63
+msgid "Description Text"
+msgstr ""
+
+#: elementor-widgets/team-member.php:50 elementor-widgets/testimonial.php:62
+#: elementor-widgets/team-details.php:60
+msgid "Designation"
+msgstr ""
+
+#: elementor-widgets/team-member.php:286 elementor-widgets/team-member.php:329
+msgid "Designation Color"
+msgstr ""
+
+#: elementor-widgets/service-box.php:139
+#: elementor-widgets/contact-info-widget.php:140
+#: elementor-widgets/team-member.php:140 elementor-widgets/icon-box.php:170
+msgid "Desktop"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:175
+#: elementor-widgets/home-slider.php:293
+msgid "Desktop Column"
+msgstr ""
+
+#: elementor-widgets/service-box.php:71 elementor-widgets/photo-gallery.php:73
+#: elementor-widgets/team-member.php:72
+msgid "Details URL"
+msgstr ""
+
+#: elementor-widgets/service-box.php:316
+msgid "Details Url Icon"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:647
+msgid "Dot Color"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:265
+#: elementor-widgets/photo-gallery.php:303
+msgid "Dots Background"
+msgstr ""
+
+#: elementor-widgets/pricing-table.php:58
+msgid "Duration"
+msgstr ""
+
+#. Author of the plugin
+msgid "e-plugins"
+msgstr ""
+
+#: inc/register-custom-posts.php:90
+msgid "Edit Member"
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:92
+msgid "Edit Menu"
+msgstr ""
+
+#: inc/register-custom-posts.php:23
+msgid "Edit Service"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:27
+msgid "Enable Lightbox Slider"
+msgstr ""
+
+#: elementor-widgets/video-popup.php:49
+msgid "Enable Overlay"
+msgstr ""
+
+#: elementor-widgets/section-title.php:60
+msgid "Enable Title Shape"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:62
+#: elementor-widgets/service-box.php:86
+#: elementor-widgets/brand-image-slider.php:259
+#: elementor-widgets/section-title.php:303 elementor-widgets/team-member.php:87
+#: elementor-widgets/video-popup.php:100 elementor-widgets/icon-box.php:116
+msgid "Entrance Animation"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:61
+msgid "Exclude Posts"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:52
+msgid "Extra Css Classes"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:270
+msgid "Extra Large Column"
+msgstr ""
+
+#: inc/post-share.php:18
+msgid "Facebook"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:120
+msgid "Fade Effect"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:78
+#: elementor-widgets/service-box.php:102
+#: elementor-widgets/brand-image-slider.php:275
+#: elementor-widgets/section-title.php:318
+#: elementor-widgets/team-member.php:103 elementor-widgets/video-popup.php:115
+#: elementor-widgets/icon-box.php:132
+msgid "Fast"
+msgstr ""
+
+#: elementor-widgets/pricing-table.php:70
+#: elementor-widgets/pricing-table.php:97
+msgid "Features List"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:165
+msgid "Field Icon Color"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:91
+msgid "Field Style"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:7
+msgid "Fitnase : About Company Widget "
+msgstr ""
+
+#: inc/widgets/contact-form-widget.php:5
+msgid "Fitnase : Contact Form Widget"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:7
+msgid "Fitnase : Contact Info Widget "
+msgstr ""
+
+#: inc/widgets/cta-button-widget.php:7
+msgid "Fitnase : CTA Button"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:7
+msgid "Fitnase : Gallery Widget "
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:11
+msgid "Fitnase : Navigation Menu"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:8
+msgid "Fitnase : Recent Posts"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:9
+msgid "Fitnase about company widget."
+msgstr ""
+
+#: inc/widgets/cta-button-widget.php:9
+msgid "Fitnase call to action widget."
+msgstr ""
+
+#: inc/widgets/contact-form-widget.php:6
+msgid "Fitnase contact form widget"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:9
+msgid "Fitnase contact info widget."
+msgstr ""
+
+#. Name of the plugin
+msgid "Fitnase Core"
+msgstr ""
+
+#: elementor-widgets/custom-elementor-widgets.php:53
+msgid "Fitnase Elements"
+msgstr ""
+
+#: elementor-widgets/controls/icons.php:56
+msgid "Fitnase Icons"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:12
+#: elementor-widgets/fitnase-image.php:84
+msgid "Fitnase Image"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:9
+msgid "Fitnase photo gallery widget."
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:9
+msgid "Fitnase recent posts widget"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:21
+msgid "Gallery"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:40
+msgid "Gallery Image"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:88
+msgid "Gallery Items"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:199
+msgid "Gallery Slider"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:86
+msgid "Gray Scale"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:107
+#: elementor-widgets/video-popup.php:80
+msgid "Height"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:12
+msgid "Home Slider"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:258
+#: elementor-widgets/photo-gallery.php:282
+#: elementor-widgets/team-member.php:300 elementor-widgets/icon-box.php:364
+#: elementor-widgets/home-slider.php:575
+msgid "Hover"
+msgstr ""
+
+#: elementor-widgets/service-box.php:273 elementor-widgets/service-box.php:335
+msgid "Hover Color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://e-plugins.com/"
+msgstr ""
+
+#: elementor-widgets/service-box.php:73 elementor-widgets/photo-gallery.php:75
+#: elementor-widgets/team-member.php:74 elementor-widgets/home-slider.php:100
+#: elementor-widgets/home-slider.php:129
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:54
+#: elementor-widgets/icon-box.php:45 elementor-widgets/icon-box.php:277
+#: inc/widgets/contact-info-widget.php:46
+#: inc/widgets/about-company-widget.php:65
+msgid "Icon"
+msgstr ""
+
+#: elementor-widgets/icon-box.php:285
+msgid "Icon Background Size"
+msgstr ""
+
+#: elementor-widgets/icon-box.php:12 elementor-widgets/icon-box.php:30
+msgid "Icon Box"
+msgstr ""
+
+#: elementor-widgets/icon-box.php:143
+msgid "Icon Boxes"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:229
+#: elementor-widgets/contact-info-widget.php:220
+#: elementor-widgets/pricing-table.php:80
+msgid "Icon Color"
+msgstr ""
+
+#: elementor-widgets/icon-box.php:305
+msgid "Icon Size"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:49
+#: elementor-widgets/icon-box.php:40
+msgid "Icon Type"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:54
+msgid "If you want to use extra css classes type class name here"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:29
+#: elementor-widgets/fitnase-image.php:37
+#: elementor-widgets/contact-info-widget.php:58
+#: elementor-widgets/contact-info-widget.php:87
+#: elementor-widgets/brand-image-slider.php:50
+#: elementor-widgets/icon-box.php:49 elementor-widgets/icon-box.php:78
+#: elementor-widgets/testimonial.php:40 inc/widgets/cta-button-widget.php:21
+msgid "Image"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:49
+msgid "Image Align"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:208
+msgid "Image Border Color"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:61
+msgid "Image Link"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:186
+msgid "Image Shape Color One"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:197
+msgid "Image Shape Color Two"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:31
+msgid "Image Url"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:76
+msgid "Images"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:29
+#: elementor-widgets/contact-info-widget.php:201
+msgid "Info Box"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:115
+msgid "Info Box List"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:28
+#: inc/widgets/contact-info-widget.php:39
+msgid "Info Text"
+msgstr ""
+
+#: elementor-widgets/team-member.php:264 elementor-widgets/team-member.php:318
+msgid "Info Top Color"
+msgstr ""
+
+#: elementor-widgets/service-box.php:169
+#: elementor-widgets/contact-info-widget.php:170
+#: elementor-widgets/team-member.php:169 elementor-widgets/icon-box.php:200
+msgid "iPad"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:317 elementor-widgets/home-slider.php:340
+msgid "iPad Column"
+msgstr ""
+
+#: elementor-widgets/service-box.php:154
+#: elementor-widgets/contact-info-widget.php:155
+#: elementor-widgets/team-member.php:155 elementor-widgets/icon-box.php:185
+msgid "iPad Pro"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:198
+msgid "Ipad Pro Column"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:55
+#: elementor-widgets/section-title.php:264
+msgid "Left"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:243
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/post-share.php:30
+msgid "Linkedin"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:164
+msgid "Loop"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:125
+#: elementor-widgets/service-box.php:219
+#: elementor-widgets/section-title.php:113
+#: elementor-widgets/section-title.php:172
+#: elementor-widgets/section-title.php:217
+#: elementor-widgets/section-title.php:291
+#: elementor-widgets/team-member.php:219 elementor-widgets/home-slider.php:408
+#: elementor-widgets/home-slider.php:460 elementor-widgets/home-slider.php:505
+msgid "Margin"
+msgstr ""
+
+#: elementor-widgets/team-details.php:30
+msgid "Member Details"
+msgstr ""
+
+#: elementor-widgets/team-member.php:60 elementor-widgets/team-details.php:38
+#: inc/register-custom-posts.php:91
+msgid "Member Image"
+msgstr ""
+
+#: elementor-widgets/team-member.php:114
+msgid "Member List"
+msgstr ""
+
+#: elementor-widgets/team-member.php:40 inc/fitnase-core-functions.php:80
+msgid "Member Name"
+msgstr ""
+
+#: elementor-widgets/service-box.php:184
+#: elementor-widgets/contact-info-widget.php:185
+#: elementor-widgets/team-member.php:184 elementor-widgets/icon-box.php:215
+msgid "Mobile"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:244
+msgid "Mobile Column"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:52 elementor-widgets/team-details.php:50
+msgid "Name"
+msgstr ""
+
+#: elementor-widgets/team-member.php:275
+msgid "Name Color"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:125
+msgid "Navigation Arrow"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:225
+msgid "Navigation Arrow On Hover"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:131
+msgid "Navigation Arrows"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:136
+#: elementor-widgets/home-slider.php:236
+msgid "Navigation Dots"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:89
+#: elementor-widgets/section-title.php:63 elementor-widgets/video-popup.php:52
+#: inc/widgets/gallery-widget.php:30
+msgid "No"
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:72
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:77
+#: elementor-widgets/contact-form7-widget.php:211
+#: elementor-widgets/service-box.php:101
+#: elementor-widgets/brand-image-slider.php:274
+#: elementor-widgets/section-title.php:317
+#: elementor-widgets/team-member.php:102 elementor-widgets/video-popup.php:114
+#: elementor-widgets/icon-box.php:131 elementor-widgets/icon-box.php:331
+#: elementor-widgets/home-slider.php:532
+msgid "Normal"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:38
+msgid "Number Of Post To Show"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:318
+#: elementor-widgets/video-popup.php:171
+msgid "Overlay Color"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:137
+#: elementor-widgets/service-box.php:231 elementor-widgets/team-member.php:231
+msgid "Padding"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:94
+msgid "Personal Training"
+msgstr ""
+
+#: inc/widgets/cta-button-widget.php:37
+msgid "Phone Number"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:12
+#: elementor-widgets/photo-gallery.php:30
+msgid "Photo Gallery Slider"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:138
+msgid "Placeholder Color"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:74
+msgid "Post Column & Layout"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:75
+msgid "Post Count:"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:30
+msgid "Post Settings"
+msgstr ""
+
+#: elementor-widgets/pricing-table.php:48
+msgid "Price"
+msgstr ""
+
+#: elementor-widgets/pricing-table.php:12
+#: elementor-widgets/pricing-table.php:30
+msgid "Pricing Table"
+msgstr ""
+
+#: elementor-widgets/team-details.php:129
+msgid "Profile Url"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:12
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/register-custom-posts.php:93
+msgid "Remove member image"
+msgstr ""
+
+#: inc/register-custom-posts.php:26
+msgid "Remove Service Image"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:65
+#: elementor-widgets/section-title.php:274
+msgid "Right"
+msgstr ""
+
+#: elementor-widgets/section-title.php:13
+#: elementor-widgets/section-title.php:31
+msgid "Section Title"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:42
+msgid "Select Contact Form"
+msgstr ""
+
+#: inc/widgets/contact-form-widget.php:45
+#: inc/widgets/contact-form-widget.php:49
+msgid "Select Form"
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:70
+#: elementor-widgets/icon-box.php:61 elementor-widgets/team-details.php:115
+msgid "Select Icon"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:47
+#: inc/widgets/about-company-widget.php:66
+msgid "Select icon"
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:80
+msgid "Select Menu:"
+msgstr ""
+
+#: inc/register-custom-posts.php:19
+msgid "Service"
+msgstr ""
+
+#: elementor-widgets/service-box.php:12 elementor-widgets/service-box.php:30
+msgid "Service Box"
+msgstr ""
+
+#: inc/register-custom-posts.php:46
+msgid "Service Categories"
+msgstr ""
+
+#: inc/register-custom-posts.php:24
+msgid "Service Image"
+msgstr ""
+
+#: elementor-widgets/service-info.php:12 elementor-widgets/service-info.php:30
+msgid "Service Info"
+msgstr ""
+
+#: elementor-widgets/service-box.php:113
+msgid "Service List"
+msgstr ""
+
+#: inc/register-custom-posts.php:62
+msgid "Service Tags"
+msgstr ""
+
+#: inc/register-custom-posts.php:18
+msgid "Services"
+msgstr ""
+
+#: inc/register-custom-posts.php:92
+msgid "Set member image"
+msgstr ""
+
+#: inc/register-custom-posts.php:25
+msgid "Set Service Image"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:92
+#: elementor-widgets/section-title.php:158
+msgid "Shape Color"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:21
+msgid "Short Description"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:124
+msgid "Show Date"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:74
+msgid "Slide Image"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:142
+msgid "Slide List"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:620
+msgid "Slider Dot And Arrow"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:170
+msgid "Slider Height (px)"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:106
+#: elementor-widgets/brand-image-slider.php:100
+#: elementor-widgets/testimonial.php:101 elementor-widgets/home-slider.php:162
+msgid "Slider Options"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:76
+#: elementor-widgets/service-box.php:100
+#: elementor-widgets/brand-image-slider.php:273
+#: elementor-widgets/section-title.php:316
+#: elementor-widgets/team-member.php:101 elementor-widgets/video-popup.php:113
+#: elementor-widgets/icon-box.php:130
+msgid "Slow"
+msgstr ""
+
+#: elementor-widgets/fitnase-image.php:103
+msgid "Small Shape Color"
+msgstr ""
+
+#: elementor-widgets/team-details.php:139
+msgid "Social Icon List"
+msgstr ""
+
+#: elementor-widgets/team-details.php:104
+msgid "Social Option"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:72
+msgid "Social Profile URL"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:52
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:59
+msgid "Social Site Name"
+msgstr ""
+
+#: inc/widgets/about-company-widget.php:46
+msgid "Social Title"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:178
+msgid "Style"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:199
+msgid "Submit Button"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:63
+#: elementor-widgets/section-title.php:39
+#: elementor-widgets/section-title.php:82 elementor-widgets/service-info.php:50
+#: elementor-widgets/home-slider.php:41 elementor-widgets/home-slider.php:378
+msgid "Subtitle"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:218
+msgid "Subtitle Color"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:221
+msgid "Tablet Column"
+msgstr ""
+
+#: inc/register-custom-posts.php:113
+msgid "Team Categories"
+msgstr ""
+
+#: elementor-widgets/team-details.php:12
+msgid "Team Details"
+msgstr ""
+
+#: elementor-widgets/team-member.php:12 inc/register-custom-posts.php:86
+msgid "Team Member"
+msgstr ""
+
+#: elementor-widgets/team-member.php:30 inc/register-custom-posts.php:85
+msgid "Team Members"
+msgstr ""
+
+#: inc/register-custom-posts.php:129
+msgid "Team Tags"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:12
+msgid "Testimonial"
+msgstr ""
+
+#: elementor-widgets/testimonial.php:30
+msgid "Testimonials"
+msgstr ""
+
+#: elementor-widgets/service-info.php:60 elementor-widgets/testimonial.php:81
+msgid "Testimonials List"
+msgstr ""
+
+#: elementor-widgets/section-title.php:258
+msgid "Text Align"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:152
+#: elementor-widgets/contact-form7-widget.php:218
+#: elementor-widgets/contact-form7-widget.php:265
+#: elementor-widgets/contact-info-widget.php:232
+#: elementor-widgets/home-slider.php:561 elementor-widgets/home-slider.php:604
+#: elementor-widgets/pricing-table.php:89
+msgid "Text Color"
+msgstr ""
+
+#: elementor-widgets/contact-form7-widget.php:177
+msgid "Textarea Height"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:43
+msgid "This field is optional."
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin is required for Fitnase WordPress theme"
+msgstr ""
+
+#: elementor-widgets/service-box.php:39
+msgid "Thumbnail Image"
+msgstr ""
+
+#: elementor-widgets/service-box.php:50 elementor-widgets/service-box.php:245
+#: elementor-widgets/photo-gallery.php:53
+#: elementor-widgets/contact-info-widget.php:39
+#: elementor-widgets/section-title.php:49
+#: elementor-widgets/section-title.php:127
+#: elementor-widgets/service-info.php:40 elementor-widgets/icon-box.php:95
+#: elementor-widgets/home-slider.php:52 elementor-widgets/home-slider.php:424
+#: elementor-widgets/pricing-table.php:38 inc/widgets/gallery-widget.php:15
+#: inc/widgets/contact-info-widget.php:15
+#: inc/widgets/about-company-widget.php:15
+#: inc/widgets/contact-form-widget.php:38 inc/widgets/cta-button-widget.php:15
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:62
+msgid "Title :"
+msgstr ""
+
+#: elementor-widgets/photo-gallery.php:207
+#: elementor-widgets/contact-info-widget.php:209
+msgid "Title Color"
+msgstr ""
+
+#: elementor-widgets/recent-posts.php:112
+msgid "Title Word Count"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:69
+msgid "Title Word Count :"
+msgstr ""
+
+#: inc/widgets/custom-navigation-widget.php:76
+msgid "Title:"
+msgstr ""
+
+#: inc/post-share.php:24
+msgid "Twitter"
+msgstr ""
+
+#: elementor-widgets/home-slider.php:91 elementor-widgets/home-slider.php:118
+msgid "Type button text here."
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:40
+msgid "Type info text here."
+msgstr ""
+
+#: elementor-widgets/service-box.php:254 elementor-widgets/service-box.php:295
+#: elementor-widgets/section-title.php:94
+#: elementor-widgets/section-title.php:139
+#: elementor-widgets/section-title.php:198
+#: elementor-widgets/home-slider.php:387 elementor-widgets/home-slider.php:433
+#: elementor-widgets/home-slider.php:484
+msgid "Typography"
+msgstr ""
+
+#: inc/widgets/cta-button-widget.php:24
+msgid "Upload Image"
+msgstr ""
+
+#: inc/register-custom-posts.php:94
+msgid "Use as member image"
+msgstr ""
+
+#: inc/register-custom-posts.php:27
+msgid "Use as services image"
+msgstr ""
+
+#: elementor-widgets/section-title.php:53
+msgid "Use H1 - H6 for title."
+msgstr ""
+
+#: elementor-widgets/home-slider.php:55
+msgid "Use Heading ( H1 - H6 ) for title text."
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:117
+msgid "Use same as image height."
+msgstr ""
+
+#: elementor-widgets/contact-info-widget.php:107
+msgid "Use Unordered list or paragraph."
+msgstr ""
+
+#: elementor-widgets/video-popup.php:12
+msgid "Video Popup"
+msgstr ""
+
+#: elementor-widgets/video-popup.php:31
+msgid "Video Popup Options"
+msgstr ""
+
+#: elementor-widgets/video-popup.php:39
+msgid "Video Url"
+msgstr ""
+
+#: elementor-widgets/section-title.php:239
+msgid "Width (%)"
+msgstr ""
+
+#: elementor-widgets/section-title.php:231
+msgid "Wrapper"
+msgstr ""
+
+#: elementor-widgets/brand-image-slider.php:88
+#: elementor-widgets/section-title.php:62 elementor-widgets/video-popup.php:51
+#: inc/widgets/gallery-widget.php:29
+msgid "Yes"
+msgstr ""
+
+#: inc/post-share.php:14
+msgid "You can share this post!"
+msgstr ""

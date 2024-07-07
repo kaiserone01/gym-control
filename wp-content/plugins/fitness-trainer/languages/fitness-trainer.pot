@@ -1,0 +1,2450 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fitness Trainer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-23 07:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.2.6"
+
+#: admin/pages/package_all.php:177
+msgid ""
+"\tUser role \"Basic\" is created on the plugin activation. Paid exprired or "
+"unsuccessful payment user will set on the \"Basic\" user role."
+msgstr ""
+
+#: admin/pages/payment-settings.php:70
+msgid " [You need to select the payment gateway from woocommerce settings]"
+msgstr ""
+
+#: plugin.php:1016
+msgid " Assign the Post"
+msgstr ""
+
+#: admin/pages/settings.php:93
+msgid " Hide Content By Role Access"
+msgstr ""
+
+#: plugin.php:507
+msgid " Login"
+msgstr ""
+
+#: admin/pages/metabox.php:137
+msgid ""
+" Note : You can get more content restriction setting for a specific  user,  "
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:41
+msgid " Only Trainer+ Admin can add report for user"
+msgstr ""
+
+#: plugin.php:1391
+msgid ""
+" or higher.\n"
+"\t\t\t\tPlease upgrade your WordPress setup"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:73
+#: template/private-profile/profile-level-1.php:75
+#: template/private-profile/profile-level-1.php:265
+#: template/private-profile/profile-level-1.php:267
+#: template/private-profile/profile-level-1.php:339
+#: template/private-profile/profile-level-1.php:341
+msgid " per"
+msgstr ""
+
+#: template/price-table/price-table-1.php:87
+#: template/price-table/price-table-1.php:89
+msgid " Per "
+msgstr ""
+
+#: template/signup/wizard-style-2.php:121
+msgid " The password is not strong enough"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:109
+msgid " The user name has to be an alphanumeric value between 4-12 characters"
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:48
+msgid " User can add his/her own report (Trainer + Admin too) "
+msgstr ""
+
+#: admin/pages/package_update.php:178
+msgid "\"Billing Amount\" will Collect After Trial Period."
+msgstr ""
+
+#: admin/pages/package_create.php:174
+msgid "\"Billing Amount\" will Collect After Trial Period. "
+msgstr ""
+
+#: admin/pages/payment-settings.php:34
+msgid "#"
+msgstr ""
+
+#: template/user-directory/directory-template-2.php:159
+msgid "&laquo; Previous"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:10
+msgid "(-) Discount"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:366
+msgid "(filtered from _MAX_ total records)"
+msgstr ""
+
+#: plugin.php:429 plugin.php:449
+msgid "."
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:74
+#: template/signup/iv_stripe_form_2.php:93
+msgid "01"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:75
+#: template/signup/iv_stripe_form_2.php:94
+msgid "02"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:76
+#: template/signup/iv_stripe_form_2.php:95
+msgid "03"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:77
+#: template/signup/iv_stripe_form_2.php:96
+msgid "04"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:78
+#: template/signup/iv_stripe_form_2.php:97
+msgid "05"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:79
+#: template/signup/iv_stripe_form_2.php:98
+msgid "06"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:80
+#: template/signup/iv_stripe_form_2.php:99
+msgid "07"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:81
+#: template/signup/iv_stripe_form_2.php:100
+msgid "08"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:82
+#: template/signup/iv_stripe_form_2.php:101
+msgid "09"
+msgstr ""
+
+#: admin/pages/payment-settings.php:43
+msgid "1"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:83
+#: template/signup/iv_stripe_form_2.php:102
+msgid "10"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:84
+#: template/signup/iv_stripe_form_2.php:103
+msgid "11"
+msgstr ""
+
+#: plugin.php:489 template/private-profile/iv_stripe_form_upgrade.php:85
+#: template/signup/iv_stripe_form_2.php:104
+msgid "12"
+msgstr ""
+
+#: admin/pages/payment-settings.php:54
+msgid "2"
+msgstr ""
+
+#: admin/pages/payment-settings.php:68
+msgid "3"
+msgstr ""
+
+#: template/private-profile/new-listing.php:12
+#: template/private-profile/post-list-pt.php:42
+#: template/private-profile/record-edit-pt.php:21
+#: template/private-profile/record-new-pt.php:21
+#: template/private-profile/trainer-dashboard.php:23
+msgid "<h1>Access Denied</h1> "
+msgstr ""
+
+#: admin/pages/settings.php:430
+msgid ">Login Page"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:304
+msgid "[Your Current Package]"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:88
+msgid "About"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:22
+#: template/private-profile/profile-single-post.php:65
+msgid "Access Denied"
+msgstr ""
+
+#: template/private-profile/edit_report.php:20
+#: template/private-profile/new_report.php:16
+msgid "Access denied"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:20
+#: template/private-profile/all-save-report.php:21
+#: template/private-profile/listing-edit.php:32
+msgid "Access Denied "
+msgstr ""
+
+#: admin/pages/profile-fields.php:62
+#: template/private-profile/profile-template-1.php:120
+msgid "Account Settings"
+msgstr ""
+
+#: admin/pages/all_coupons.php:46 admin/pages/package_all.php:92
+#: admin/pages/payment-settings.php:38 admin/pages/post_type.php:23
+#: admin/pages/profile-fields.php:31 admin/pages/profile-fields.php:233
+#: admin/pages/record_fields.php:28 admin/pages/report_pdf_fields.php:60
+#: admin/pages/user_directory_admin.php:40
+msgid "Action"
+msgstr ""
+
+#: admin/pages/package_all.php:142
+msgid "Active"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:244
+#: template/private-profile/edit_report.php:141
+#: template/private-profile/my-report.php:110
+#: template/private-profile/new-listing.php:239
+#: template/private-profile/new_report.php:145
+#: template/private-profile/profile-new-record.php:18
+#: template/private-profile/profile-new-record.php:82
+#: template/private-profile/profile-record-edit.php:45
+#: template/private-profile/profile-record-edit.php:116
+#: template/private-profile/profile-setting-1.php:148
+#: template/private-profile/profile-template-1.php:352
+#: template/private-profile/record-edit-pt.php:68
+#: template/private-profile/record-edit-pt.php:138
+#: template/private-profile/record-new-pt.php:77
+#: template/private-profile/record-new-pt.php:142
+#: template/private-profile/trainer-dashboard.php:40
+msgid "Add"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:27
+msgid "Add Images"
+msgstr ""
+
+#: admin/pages/post_type.php:55 admin/pages/profile-fields.php:212
+#: admin/pages/profile-fields.php:289 admin/pages/record_fields.php:68
+#: admin/pages/report_pdf_fields.php:105
+msgid "Add More"
+msgstr ""
+
+#: plugin.php:236 plugin.php:340
+msgid "Add New"
+msgstr ""
+
+#: plugin.php:235 plugin.php:339
+msgid "Add New Item"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:31
+msgid "Add New Plan"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:42
+#: template/private-profile/profile-all-record.php:30
+msgid "Add New Record"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:32
+#: template/private-profile/my-report.php:14
+msgid "Add New Report"
+msgstr ""
+
+#: admin/pages/profile-fields.php:106
+msgid "Add Records"
+msgstr ""
+
+#: admin/pages/profile-fields.php:128
+msgid "Add Report"
+msgstr ""
+
+#: admin/pages/settings.php:647
+msgid "Admin Email Subject"
+msgstr ""
+
+#: admin/pages/settings.php:656
+msgid "Admin Email Tempalte"
+msgstr ""
+
+#: admin/pages/package_create.php:206 admin/pages/package_update.php:213
+msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed."
+msgstr ""
+
+#: template/private-profile/post-list-pt.php:65
+#: template/private-profile/post-list.php:63
+msgid "All"
+msgstr ""
+
+#: admin/pages/user_update.php:113
+msgid "All Content [Role,Specific User, Woocommerce]"
+msgstr ""
+
+#: plugin.php:234 plugin.php:338
+msgid "All Items"
+msgstr ""
+
+#: admin/pages/package_all.php:71
+msgid "All Package / Membership Level "
+msgstr ""
+
+#: admin/pages/profile-fields.php:84
+msgid "All Records"
+msgstr ""
+
+#: admin/pages/settings.php:186
+msgid "Already logged In User Message"
+msgstr ""
+
+#: admin/pages/all_coupons.php:45 admin/pages/coupon_create.php:76
+#: admin/pages/coupon_update.php:95 admin/pages/package_all.php:88
+#: template/private-profile/iv_stripe_form_upgrade.php:53
+#: template/private-profile/profile-level-1.php:250
+#: template/private-profile/profile-level-1.php:324
+#: template/signup/iv_stripe_form_2.php:59 template/signup/paypal_form_2.php:51
+#: template/signup/woocommerce.php:52
+msgid "Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:132
+msgid "Amount e.g 10"
+msgstr ""
+
+#: admin/pages/package_update.php:135
+msgid "Amount e.g. 10"
+msgstr ""
+
+#: admin/pages/package_create.php:182 admin/pages/package_update.php:186
+msgid ""
+"Amount to Bill for The Trial Period. Free is 0.[Stripe will not support this "
+"option ]"
+msgstr ""
+
+#: plugin.php:552 plugin.php:1343
+msgid "Any Category"
+msgstr ""
+
+#: template/private-profile/comments.php:75
+msgid "Any comments or feedback (Only you & expert will view)?"
+msgstr ""
+
+#: template/private-profile/profile-login.php:62
+msgid "Are you a new user?"
+msgstr ""
+
+#: admin/admin.php:195 admin/pages/metabox.php:155
+msgid "Are you sure to cancel this Membership"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:358
+msgid "Are you sure to cancel this Membership?"
+msgstr ""
+
+#: admin/pages/paypal_update.php:63 admin/pages/stripe_update.php:74
+msgid "Australian Dollars ($)"
+msgstr ""
+
+#: template/private-profile/profile-login.php:83
+msgid "Back"
+msgstr ""
+
+#: admin/pages/new-message.php:2
+msgid "BCC to Admin all Message"
+msgstr ""
+
+#: admin/pages/package_create.php:130 admin/pages/package_update.php:133
+msgid "Billing Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:154 admin/pages/package_update.php:158
+msgid "Billing Cycle Limit"
+msgstr ""
+
+#: admin/pages/package_create.php:65 admin/pages/package_update.php:71
+msgid "Billing Details"
+msgstr ""
+
+#: admin/pages/paypal_update.php:64 admin/pages/stripe_update.php:75
+msgid "Brazilian Real (R$)"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Build Paid fitness site using Wordpress.No programming knowledge required."
+msgstr ""
+
+#: admin/pages/paypal_update.php:65 admin/pages/stripe_update.php:76
+msgid "Canadian Dollars ($)"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:18
+msgid "Cancel"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:396
+#: template/private-profile/profile-level-1.php:423
+msgid "Cancel Membership"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:391
+#: template/private-profile/profile-level-1.php:419
+msgid "Cancel Reason"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:392
+#: template/private-profile/profile-level-1.php:420
+msgid "Canceling Reason"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:64
+msgid "Card CVV"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:83
+msgid "Card CVV "
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:58
+#: template/signup/iv_stripe_form_2.php:77
+msgid "Card Number"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:60
+#: template/signup/iv_stripe_form_2.php:79
+msgid "Card number is not correct"
+msgstr ""
+
+#: plugin.php:286
+msgid "Categories"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:120
+#: template/private-profile/new-listing.php:118
+msgid "Category"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:75
+msgid "Change"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:15
+#: template/private-profile/profile-setting-1.php:92
+msgid "Change Password"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:137
+msgid "Chart"
+msgstr ""
+
+#: template/private-profile/record-chat.php:57
+#: template/private-profile/saved-record-chat.php:59
+msgid "Chart For"
+msgstr ""
+
+#: admin/pages/settings.php:132
+msgid "Check/Uncheck"
+msgstr ""
+
+#: admin/pages/paypal_update.php:66 admin/pages/stripe_update.php:77
+msgid "Chinese Yuan"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:131
+#: template/private-profile/new-listing.php:124
+msgid "Choose a category"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:39
+msgid "Client"
+msgstr ""
+
+#: template/pdf/pdf_post.php:94 template/pdf/pdf_report.php:62
+msgid "Client Name"
+msgstr ""
+
+#: template/private-profile/trainer_menu.php:9
+msgid "Client Plans"
+msgstr ""
+
+#: template/private-profile/trainer_menu.php:14
+msgid "Client Records"
+msgstr ""
+
+#: template/private-profile/trainer_menu.php:19
+msgid "Client Reports"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:27
+msgid "Clients Plan"
+msgstr ""
+
+#: admin/pages/dir_setting.php:6
+msgid "Color Options"
+msgstr ""
+
+#: admin/pages/settings.php:12
+msgid "Color/Settings"
+msgstr ""
+
+#: template/private-profile/comments.php:2
+msgid "Comments & Feedback"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:132
+msgid "Completed"
+msgstr ""
+
+#: plugin.php:400 plugin.php:420 plugin.php:440 plugin.php:460 plugin.php:481
+#: plugin.php:501 admin/pages/user_directory_admin.php:39
+msgid "Content"
+msgstr ""
+
+#: admin/pages/user_update.php:94
+msgid "Content Settings"
+msgstr ""
+
+#: admin/pages/settings.php:107
+msgid "Content Show By Roles"
+msgstr ""
+
+#: admin/pages/settings.php:88
+msgid "Content Visibility Module :"
+msgstr ""
+
+#: admin/pages/coupon_create.php:78
+msgid "Coupon Amount [ Only number no Currency ]"
+msgstr ""
+
+#: admin/pages/all_coupons.php:41
+msgid "Coupon Code/ Name"
+msgstr ""
+
+#: admin/pages/all_coupons.php:26
+msgid "Coupon List"
+msgstr ""
+
+#: admin/pages/coupon_create.php:18 admin/pages/coupon_update.php:32
+msgid "Coupon Name"
+msgstr ""
+
+#: admin/pages/settings.php:18
+msgid "Coupons"
+msgstr ""
+
+#: admin/pages/all_coupons.php:20 admin/pages/all_coupons.php:83
+msgid "Create A New Coupon"
+msgstr ""
+
+#: admin/pages/package_all.php:65 admin/pages/package_all.php:169
+msgid "Create A New Package"
+msgstr ""
+
+#: template/private-profile/profile-login.php:63
+msgid "Create an account"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:33
+msgid "Create Date"
+msgstr ""
+
+#: admin/pages/coupon_create.php:9
+msgid "Create New Coupon"
+msgstr ""
+
+#: admin/pages/package_create.php:16
+msgid "Create Package / Membership Level"
+msgstr ""
+
+#: admin/pages/dir_setting.php:55
+msgid "Cron Job"
+msgstr ""
+
+#: admin/pages/dir_setting.php:66
+msgid ""
+"Cron JOB Detail : Hide Listing( Package setting),Subscription Remainder "
+"email."
+msgstr ""
+
+#: admin/pages/settings.php:501
+msgid "Cron JOB Detail : Renew update, Subscription Remainder email."
+msgstr ""
+
+#: admin/pages/dir_setting.php:58 admin/pages/settings.php:496
+msgid "Cron Job URL"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:12
+msgid "Current"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:39
+msgid "Current Package"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:79
+msgid "Current Password"
+msgstr ""
+
+#: plugin.php:931
+msgid "Current password is wrong"
+msgstr ""
+
+#: template/private-profile/profile-all-record.php:139
+msgid ""
+"Currently you have no data added. Please manage your account from the "
+"sidebar on the left."
+msgstr ""
+
+#: admin/pages/post_type.php:7
+msgid "Custom Post Type"
+msgstr ""
+
+#: admin/pages/post_type.php:12
+msgid "Custom Post type list"
+msgstr ""
+
+#: admin/pages/post_type.php:75
+msgid "Custom Post Type Page Setting"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:67
+msgid "CVC number is not correct"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:86
+msgid "CVV number is not correct"
+msgstr ""
+
+#: admin/pages/package_create.php:136
+msgid "Cycle # e.g 1"
+msgstr ""
+
+#: admin/pages/package_update.php:139
+msgid "Cycle# e.g 1"
+msgstr ""
+
+#: admin/pages/paypal_update.php:67 admin/pages/stripe_update.php:78
+msgid "Czech Koruna"
+msgstr ""
+
+#: admin/pages/paypal_update.php:68 admin/pages/stripe_update.php:79
+msgid "Danish Krone"
+msgstr ""
+
+#: template/pdf/pdf_post.php:102 template/pdf/pdf_report.php:70
+#: template/private-profile/all-save-records.php:172
+#: template/private-profile/edit_report.php:77
+#: template/private-profile/listing-edit.php:72
+#: template/private-profile/new-listing.php:82
+#: template/private-profile/new_report.php:80
+#: template/private-profile/profile-all-record.php:80
+#: template/private-profile/profile-new-record.php:27
+#: template/private-profile/profile-new-record.php:29
+#: template/private-profile/profile-record-edit.php:55
+#: template/private-profile/record-edit-pt.php:78
+#: template/private-profile/record-new-pt.php:86
+msgid "Date"
+msgstr ""
+
+#: template/price-table/price-table-1.php:53
+#: template/private-profile/training-calendar-pt.php:104
+#: template/private-profile/training-calendar.php:125
+msgid "Day"
+msgstr ""
+
+#: admin/pages/package_create.php:93 admin/pages/package_create.php:140
+#: admin/pages/package_create.php:199 admin/pages/package_update.php:97
+#: admin/pages/package_update.php:144 admin/pages/package_update.php:206
+msgid "Day(s)"
+msgstr ""
+
+#: plugin.php:408 plugin.php:428 plugin.php:448 plugin.php:469 plugin.php:509
+msgid "Default"
+msgstr ""
+
+#: plugin.php:510
+msgid "Default "
+msgstr ""
+
+#: admin/pages/all_coupons.php:66 admin/pages/package_all.php:151
+#: admin/pages/post_type.php:47 admin/pages/profile-fields.php:188
+#: admin/pages/profile-fields.php:203 admin/pages/profile-fields.php:280
+#: admin/pages/record_fields.php:60 admin/pages/report_pdf_fields.php:97
+#: admin/pages/user_directory_admin.php:77
+#: template/private-profile/all-save-report.php:147
+#: template/private-profile/my-report.php:79
+msgid "Delete"
+msgstr ""
+
+#: admin/pages/all_coupons.php:9 admin/pages/package_all.php:53
+#: template/private-profile/all-save-records.php:30
+#: template/private-profile/profile-all-record.php:14
+msgid "Deleted Successfully"
+msgstr ""
+
+#: admin/pages/post_type.php:34 admin/pages/post_type.php:100
+msgid "Detox Plans"
+msgstr ""
+
+#: admin/pages/post_type.php:36 admin/pages/post_type.php:102
+msgid "Diet Guide"
+msgstr ""
+
+#: admin/pages/post_type.php:35 admin/pages/post_type.php:101
+msgid "Diet Plans"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:3
+msgid "Discount Coupon"
+msgstr ""
+
+#: admin/pages/coupon_create.php:24 admin/pages/coupon_update.php:38
+msgid "Discount Type"
+msgstr ""
+
+#: admin/pages/settings.php:309
+msgid "Dispaly"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:362
+msgid "Display _MENU_ records per page"
+msgstr ""
+
+#: admin/pages/post_type.php:20 admin/pages/profile-fields.php:224
+#: admin/pages/record_fields.php:23 admin/pages/report_pdf_fields.php:57
+msgid "Display Label"
+msgstr ""
+
+#: admin/pages/post_type.php:69
+msgid ""
+"Do not use Uppercase, Space & Special characters for custom psot type name. "
+"Please update your site permalink after update the post type."
+msgstr ""
+
+#: template/private-profile/all-save-records.php:243
+msgid "Do you want to delete the data?"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:178
+#: template/private-profile/edit_report.php:139
+#: template/private-profile/listing-edit.php:258
+#: template/private-profile/my-report.php:109
+#: template/private-profile/new-listing.php:237
+#: template/private-profile/new_report.php:143
+#: template/private-profile/profile-new-record.php:80
+#: template/private-profile/profile-record-edit.php:114
+#: template/private-profile/profile-setting-1.php:146
+#: template/private-profile/profile-template-1.php:350
+#: template/private-profile/record-edit-pt.php:136
+#: template/private-profile/record-new-pt.php:140
+msgid "Do you want to delete the report?"
+msgstr ""
+
+#: plugin.php:1530
+msgid "Docs"
+msgstr ""
+
+#: template/private-profile/done_shortcode.php:24
+#: template/private-profile/profile-single-post.php:86
+msgid "Done"
+msgstr ""
+
+#: admin/pages/dir_setting.php:29
+msgid "Done Button"
+msgstr ""
+
+#: template/private-profile/profile-single-post.php:61
+msgid "Download PDF"
+msgstr ""
+
+#. Author of the plugin
+msgid "e-plugin"
+msgstr ""
+
+#: admin/pages/package_all.php:151 admin/pages/user_directory_admin.php:76
+#: template/private-profile/all-save-records.php:217
+#: template/private-profile/all-save-records.php:246
+#: template/private-profile/all-save-report.php:144
+#: template/private-profile/edit_report.php:143
+#: template/private-profile/iv_stripe_form_upgrade.php:133
+#: template/private-profile/my-report.php:76
+#: template/private-profile/my-report.php:112
+#: template/private-profile/new-listing.php:241
+#: template/private-profile/new_report.php:147
+#: template/private-profile/profile-all-record.php:127
+#: template/private-profile/profile-new-record.php:84
+#: template/private-profile/profile-record-edit.php:118
+#: template/private-profile/profile-setting-1.php:150
+#: template/private-profile/profile-template-1.php:356
+#: template/private-profile/record-edit-pt.php:140
+#: template/private-profile/record-new-pt.php:144
+msgid "Edit"
+msgstr ""
+
+#: plugin.php:238 plugin.php:342
+msgid "Edit Item"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:8
+msgid "Edit Post"
+msgstr ""
+
+#: template/private-profile/profile-record-edit.php:5
+#: template/private-profile/record-edit-pt.php:28
+msgid "Edit Record"
+msgstr ""
+
+#: template/private-profile/edit_report.php:26
+msgid "Edit Report"
+msgstr ""
+
+#: admin/pages/payment-settings.php:51 admin/pages/payment-settings.php:62
+msgid "Edit Setting"
+msgstr ""
+
+#: admin/pages/settings.php:21 admin/pages/user_directory_admin.php:35
+#: template/private-profile/profile-login.php:80
+msgid "Email"
+msgstr ""
+
+#: admin/pages/user_update.php:27 template/signup/wizard-style-2.php:113
+msgid "Email Address"
+msgstr ""
+
+#: admin/pages/settings.php:528
+msgid "Email Sender"
+msgstr ""
+
+#: admin/pages/settings.php:545
+msgid "Email Subject "
+msgstr ""
+
+#: admin/pages/settings.php:555
+msgid "Email Tempalte"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:108
+msgid "Email:"
+msgstr ""
+
+#: admin/pages/package_create.php:107 admin/pages/package_update.php:111
+msgid "Enable Recurring Payment"
+msgstr ""
+
+#: admin/pages/package_create.php:171 admin/pages/package_update.php:175
+msgid "Enable Trial Period"
+msgstr ""
+
+#: admin/pages/all_coupons.php:43
+msgid "End Date"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:56
+#: template/private-profile/profile-record-edit.php:86
+#: template/private-profile/profile-setting-1.php:64
+#: template/private-profile/record-edit-pt.php:108
+#: template/private-profile/record-new-pt.php:116
+msgid "Enter"
+msgstr ""
+
+#: admin/pages/package_create.php:181 admin/pages/package_update.php:185
+msgid "Enter Amount to Bill for The Trial Period"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:67
+#: template/signup/iv_stripe_form_2.php:86
+msgid "Enter card CVC"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:60
+msgid "Enter card number"
+msgstr ""
+
+#: admin/pages/coupon_create.php:20
+msgid "Enter Coupon Name Or Coupon Code"
+msgstr ""
+
+#: admin/pages/metabox.php:133
+msgid ""
+"Enter day number  e.g. 1,2,5,8 (If you select calendar view from custom post "
+"type setting then day number is required)"
+msgstr ""
+
+#: template/private-profile/profile-login.php:101
+msgid "Enter Email Address"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:115
+msgid "Enter email address"
+msgstr ""
+
+#: admin/pages/package_create.php:53 admin/pages/package_update.php:59
+msgid "Enter Feature List"
+msgstr ""
+
+#: admin/pages/package_create.php:69 admin/pages/package_update.php:75
+msgid "Enter Initial Payment"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:67
+msgid "Enter listing Name Here"
+msgstr ""
+
+#: admin/pages/profile-fields.php:185
+msgid "Enter Menu Link"
+msgstr ""
+
+#: admin/pages/profile-fields.php:200
+msgid "Enter Menu Link. Example  http://www.google.com"
+msgstr ""
+
+#: admin/pages/profile-fields.php:182 admin/pages/profile-fields.php:197
+msgid "Enter Menu Title"
+msgstr ""
+
+#: template/private-profile/new-listing.php:77
+msgid "Enter Name Here"
+msgstr ""
+
+#: admin/pages/package_update.php:67
+msgid "Enter number e.g. 1"
+msgstr ""
+
+#: admin/pages/package_create.php:61
+msgid "Enter order number e.g. 1"
+msgstr ""
+
+#: admin/pages/package_create.php:23 admin/pages/package_update.php:26
+msgid "Enter Package Name"
+msgstr ""
+
+#: admin/pages/paypal_update.php:44
+msgid "Enter Paypal Api Password"
+msgstr ""
+
+#: admin/pages/paypal_update.php:50
+msgid "Enter Paypal Api Signature"
+msgstr ""
+
+#: admin/pages/paypal_update.php:38
+msgid "Enter Paypal Username"
+msgstr ""
+
+#: admin/pages/post_type.php:43
+msgid "Enter Post Type Label"
+msgstr ""
+
+#: admin/pages/post_type.php:41
+msgid "Enter Post Type Name"
+msgstr ""
+
+#: admin/pages/coupon_create.php:60
+msgid "Enter Usage Limit Number"
+msgstr ""
+
+#: admin/pages/profile-fields.php:266
+msgid "Enter User Meta Label"
+msgstr ""
+
+#: admin/pages/profile-fields.php:264
+msgid "Enter User Meta Name"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:109
+msgid "Enter User Name"
+msgstr ""
+
+#: template/private-profile/profile-login.php:100
+msgid "Enter Username & Password."
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:23
+#: template/private-profile/profile-record-edit.php:51
+#: template/private-profile/record-edit-pt.php:74
+#: template/private-profile/record-new-pt.php:82
+msgid "Enter Week number"
+msgstr ""
+
+#: template/private-profile/profile-login.php:74
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: admin/pages/stripe_update.php:72
+msgid "Euros (&euro;)"
+msgstr ""
+
+#: admin/pages/paypal_update.php:61
+msgid "Euros (€)"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:205
+#: template/private-profile/profile-all-record.php:113
+msgid "Expert Review:"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:71
+#: template/signup/iv_stripe_form_2.php:90
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+#: admin/pages/coupon_create.php:70 admin/pages/coupon_update.php:89
+msgid "Expire Date"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:36 admin/pages/user_update.php:85
+msgid "Expiry Date"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:172
+msgid "Exprie Date"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:99
+msgid "FaceBook"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:95
+#: template/private-profile/new-listing.php:105
+msgid "Feature Image"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:367
+msgid "First"
+msgstr ""
+
+#. Name of the plugin
+msgid "Fitness Trainer"
+msgstr ""
+
+#: admin/pages/coupon_create.php:27 admin/pages/coupon_update.php:44
+msgid "Fixed Amount"
+msgstr ""
+
+#: template/private-profile/profile-login.php:68
+msgid "Forget Password ?"
+msgstr ""
+
+#: admin/pages/settings.php:570
+msgid "Forget Subject "
+msgstr ""
+
+#: admin/pages/settings.php:579
+msgid "Forget Tempalte"
+msgstr ""
+
+#: template/private-profile/profile-login.php:43
+msgid "Forgot Password?"
+msgstr ""
+
+#: template/price-table/price-table-1.php:78
+#: template/private-profile/profile-level-1.php:64
+#: template/private-profile/profile-level-1.php:256
+#: template/private-profile/profile-level-1.php:330
+msgid "Free"
+msgstr ""
+
+#: admin/admin.php:194 admin/pages/metabox.php:154
+msgid "Gallery Images"
+msgstr ""
+
+#: admin/pages/paypal_update.php:27 admin/pages/stripe_update.php:28
+msgid "Gateway Mode"
+msgstr ""
+
+#: admin/pages/payment-settings.php:35
+msgid "Gateways Name"
+msgstr ""
+
+#: admin/pages/settings.php:698
+msgid "Get your API key here."
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:111
+msgid "Google+"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:69 template/signup/paypal_form_2.php:61
+msgid "Have a coupon?"
+msgstr ""
+
+#: admin/pages/metabox.php:137
+msgid "Here"
+msgstr ""
+
+#: admin/pages/profile-fields.php:55 admin/pages/profile-fields.php:77
+#: admin/pages/profile-fields.php:99 admin/pages/profile-fields.php:121
+#: admin/pages/profile-fields.php:143 admin/pages/profile-fields.php:165
+#: admin/pages/settings.php:285 admin/pages/settings.php:333
+msgid "Hide"
+msgstr ""
+
+#: admin/pages/settings.php:276
+msgid "Hide Admin Bar for All Users Except for Administrators"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:226
+msgid "Hide Coupon"
+msgstr ""
+
+#: admin/pages/settings.php:324
+msgid "Hide Coupon Buton"
+msgstr ""
+
+#: admin/pages/dir_setting.php:37
+msgid "Hide Done Button"
+msgstr ""
+
+#: admin/pages/paypal_update.php:69 admin/pages/stripe_update.php:80
+msgid "Hong Kong Dollar ($)"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://e-plugin.com/"
+msgstr ""
+
+#: admin/pages/paypal_update.php:70 admin/pages/stripe_update.php:81
+msgid "Hungarian Forint"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:32
+#: template/private-profile/trainer-dashboard.php:38
+msgid "ID"
+msgstr ""
+
+#: admin/pages/package_create.php:100
+msgid ""
+"If select none then user package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. \"Billing Cycle Limit\" will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: admin/pages/package_update.php:104
+msgid ""
+"If select none then user package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. Billing Cycle Limit will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:9
+#: template/private-profile/profile-record-edit.php:26
+#: template/private-profile/record-edit-pt.php:49
+#: template/private-profile/record-new-pt.php:68
+msgid "Image"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:26
+#: template/profile-public/profile-template-2.php:206
+msgid "Image Gallery"
+msgstr ""
+
+#: admin/pages/package_all.php:144
+msgid "Inactive"
+msgstr ""
+
+#: admin/pages/paypal_update.php:71 admin/pages/stripe_update.php:82
+msgid "Indian Rupee"
+msgstr ""
+
+#: admin/pages/package_create.php:67 admin/pages/package_update.php:73
+msgid "Initial Payment"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:119
+msgid "Instagram"
+msgstr ""
+
+#: template/private-profile/profile-login.php:99
+msgid "Invalid Username & Password."
+msgstr ""
+
+#: admin/pages/paypal_update.php:72 admin/pages/stripe_update.php:83
+msgid "Israeli Sheqel"
+msgstr ""
+
+#: admin/pages/package_create.php:54 admin/pages/package_update.php:60
+msgid "It will display on price list table"
+msgstr ""
+
+#: admin/pages/paypal_update.php:73 admin/pages/stripe_update.php:84
+msgid "Japanese Yen (¥)"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:368
+msgid "Last"
+msgstr ""
+
+#: admin/pages/package_all.php:89 admin/pages/profile-fields.php:28
+msgid "Link"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:103
+msgid "Linkedin"
+msgstr ""
+
+#: admin/pages/paypal_update.php:31 admin/pages/stripe_update.php:32
+msgid "Live Mode"
+msgstr ""
+
+#: admin/pages/stripe_update.php:43
+msgid "Live Publishable"
+msgstr ""
+
+#: admin/pages/stripe_update.php:37
+msgid "Live Secret"
+msgstr ""
+
+#: plugin.php:497 template/private-profile/profile-login.php:40
+msgid "Login"
+msgstr ""
+
+#: admin/pages/settings.php:22
+msgid "MailChimp"
+msgstr ""
+
+#: admin/pages/settings.php:687
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/pages/settings.php:715
+msgid "Mailchimp List"
+msgstr ""
+
+#: admin/pages/paypal_update.php:74 admin/pages/stripe_update.php:85
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: admin/pages/profile-fields.php:40
+#: template/private-profile/profile-level-1.php:8
+#: template/private-profile/profile-template-1.php:137
+msgid "Membership Level"
+msgstr ""
+
+#: admin/pages/profile-fields.php:25
+msgid "Menu Title / Label"
+msgstr ""
+
+#: admin/pages/paypal_update.php:75 admin/pages/stripe_update.php:86
+msgid "Mexican Peso ($)"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:102
+msgid "Mobile:"
+msgstr ""
+
+#: admin/pages/payment-settings.php:36
+msgid "Mode"
+msgstr ""
+
+#: template/price-table/price-table-1.php:51
+msgid "Month"
+msgstr ""
+
+#: admin/pages/package_update.php:208
+msgid "Month(s"
+msgstr ""
+
+#: admin/pages/package_create.php:95 admin/pages/package_create.php:142
+#: admin/pages/package_create.php:201 admin/pages/package_update.php:99
+#: admin/pages/package_update.php:146
+msgid "Month(s)"
+msgstr ""
+
+#: admin/pages/profile-fields.php:21
+msgid "My Account Menu"
+msgstr ""
+
+#: plugin.php:436
+msgid "My Acount "
+msgstr ""
+
+#: template/private-profile/profile-all-record.php:26
+#: template/private-profile/profile-template-1.php:152
+msgid "My Records"
+msgstr ""
+
+#: admin/pages/profile-fields.php:150 template/private-profile/my-report.php:5
+msgid "My Report"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:167
+msgid "My Reports"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:65
+#: template/private-profile/new-listing.php:75
+msgid "Name/Title"
+msgstr ""
+
+#: admin/pages/package_create.php:157 admin/pages/package_update.php:161
+msgid "Never"
+msgstr ""
+
+#: plugin.php:237 plugin.php:341
+msgid "New Item"
+msgstr ""
+
+#: admin/pages/new-message.php:15
+msgid "New Message Subject"
+msgstr ""
+
+#: admin/pages/new-message.php:24
+msgid "New Message Template :"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:83
+msgid "New Password"
+msgstr ""
+
+#: plugin.php:923
+msgid "New Password & Re Password are not same"
+msgstr ""
+
+#: template/private-profile/new-listing.php:21
+msgid "New Post"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:2
+#: template/private-profile/record-new-pt.php:29
+msgid "New Record"
+msgstr ""
+
+#: template/private-profile/new_report.php:26
+msgid "New Report"
+msgstr ""
+
+#: admin/pages/paypal_update.php:76 admin/pages/stripe_update.php:87
+msgid "New Zealand Dollar ($)"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:369
+msgid "Next"
+msgstr ""
+
+#: template/user-directory/directory-template-2.php:160
+msgid "Next &raquo;"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:191
+msgid "Next Payment Date"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:365
+msgid "No records available"
+msgstr ""
+
+#: template/user-directory/directory-template-2.php:147
+msgid "No users found"
+msgstr ""
+
+#: admin/pages/package_create.php:92 admin/pages/package_update.php:96
+#: template/private-profile/profile-level-1.php:48
+#: template/private-profile/profile-level-1.php:51
+msgid "None"
+msgstr ""
+
+#: admin/pages/paypal_update.php:77 admin/pages/stripe_update.php:88
+msgid "Norwegian Krone"
+msgstr ""
+
+#: admin/pages/settings.php:738
+msgid "Not Available"
+msgstr ""
+
+#: plugin.php:242 plugin.php:346
+msgid "Not found"
+msgstr ""
+
+#: plugin.php:243 plugin.php:347
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/pages/coupon_create.php:91 admin/pages/coupon_update.php:103
+#, php-format
+msgid ""
+"Note : Coupon will work on \"One Time Payment\" only. Coupon will not work "
+"on recurring payment  and 100% discount will not support."
+msgstr ""
+
+#: admin/pages/all_coupons.php:75
+#, php-format
+msgid ""
+"Note : Coupon will work on \"One Time Payment\" only. Coupon will not work "
+"on recurring payment and 100% discount will not support.\t\t"
+msgstr ""
+
+#: admin/pages/package_all.php:197
+msgid ""
+"Note: You can use other available pricing table. The package link URL will "
+"go on \"Sign UP \" button. "
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:376
+msgid ""
+"Note: Your Successful Upgrade or Downgrade will affect on your user role "
+"immediately."
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:363
+msgid "Nothing found - sorry"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:403
+#: template/private-profile/profile-level-1.php:430
+msgid "Nothing to Cancel"
+msgstr ""
+
+#: admin/pages/settings.php:595
+msgid "Notice Subject"
+msgstr ""
+
+#: admin/pages/settings.php:604
+msgid "Notice Tempalte"
+msgstr ""
+
+#: admin/pages/metabox.php:28
+msgid "Only for the user role"
+msgstr ""
+
+#: admin/pages/metabox.php:39
+msgid "Only specific users"
+msgstr ""
+
+#: admin/pages/package_create.php:58 admin/pages/package_update.php:64
+msgid "Order"
+msgstr ""
+
+#: admin/pages/settings.php:620
+msgid "Order Email"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:58
+msgid "Package Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:74 admin/pages/package_update.php:79
+msgid "Package Expire After"
+msgstr ""
+
+#: admin/pages/package_create.php:51 admin/pages/package_update.php:57
+msgid "Package Feature List"
+msgstr ""
+
+#: admin/pages/package_all.php:157
+msgid "Package List is Empty"
+msgstr ""
+
+#: admin/pages/package_all.php:87 admin/pages/package_create.php:21
+#: admin/pages/package_update.php:24
+#: template/private-profile/iv_stripe_form_upgrade.php:20
+#: template/private-profile/profile-level-1.php:217
+#: template/private-profile/profile-level-1.php:291
+#: template/signup/iv_stripe_form_2.php:18 template/signup/paypal_form_2.php:2
+#: template/signup/woocommerce.php:2
+msgid "Package Name"
+msgstr ""
+
+#: admin/pages/coupon_create.php:33 admin/pages/coupon_update.php:50
+msgid "Package Only"
+msgstr ""
+
+#: admin/pages/package_all.php:188
+msgid "Package Page"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:86
+msgid "Package Type"
+msgstr ""
+
+#: admin/pages/settings.php:19
+msgid "Packages"
+msgstr ""
+
+#: admin/pages/settings.php:11
+msgid "Page"
+msgstr ""
+
+#: plugin.php:233 plugin.php:337
+msgid "Parent Item:"
+msgstr ""
+
+#: template/private-profile/profile-login.php:30
+#: template/private-profile/profile-login.php:33
+#: template/signup/wizard-style-2.php:119
+msgid "Password"
+msgstr ""
+
+#: template/private-profile/profile-login.php:98
+msgid "Password Sent. Please check your email."
+msgstr ""
+
+#: admin/pages/payment-settings.php:23 admin/pages/settings.php:17
+msgid "Payment Gateways"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:190
+msgid "Payment Info"
+msgstr ""
+
+#: admin/pages/settings.php:20
+msgid "Payment Page"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:37 admin/pages/user_update.php:73
+#: template/private-profile/profile-level-1.php:96
+msgid "Payment Status"
+msgstr ""
+
+#: admin/pages/payment-settings.php:46
+msgid "Paypal"
+msgstr ""
+
+#: admin/pages/paypal_update.php:54
+msgid "PayPal API Currency Code"
+msgstr ""
+
+#: admin/pages/paypal_update.php:42
+msgid "PayPal API Password"
+msgstr ""
+
+#: admin/pages/paypal_update.php:16
+msgid "Paypal Api Settings [Express Checkout]"
+msgstr ""
+
+#: admin/pages/paypal_update.php:48
+msgid "PayPal API Signature"
+msgstr ""
+
+#: admin/pages/paypal_update.php:36
+msgid "PayPal API Username"
+msgstr ""
+
+#: admin/pages/settings.php:16
+msgid "PDF Report Fields"
+msgstr ""
+
+#: admin/pages/package_create.php:134 admin/pages/package_update.php:137
+msgid "Per"
+msgstr ""
+
+#: admin/pages/coupon_create.php:28 admin/pages/coupon_update.php:45
+msgid "Percentage"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:12
+msgid "Personal Info"
+msgstr ""
+
+#: admin/pages/paypal_update.php:78 admin/pages/stripe_update.php:89
+msgid "Philippine Pesos"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:96
+msgid "Phone:"
+msgstr ""
+
+#: admin/pages/package_all.php:182
+msgid "PHP Code"
+msgstr ""
+
+#: plugin.php:335
+msgid "Physical Record"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:115
+msgid "Pinterest"
+msgstr ""
+
+#: template/private-profile/trainer-dashboard.php:69
+#: template/private-profile/trainer-dashboard.php:74
+msgid "Plan"
+msgstr ""
+
+#: admin/pages/settings.php:14
+msgid "Plan Types"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:115
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: template/private-profile/comments.php:85
+msgid "Please wait a while before posting your next comment"
+msgstr ""
+
+#: admin/pages/dir_setting.php:15
+msgid "Plugin Color"
+msgstr ""
+
+#: admin/pages/paypal_update.php:79 admin/pages/stripe_update.php:90
+msgid "Polish Zloty"
+msgstr ""
+
+#: admin/pages/metabox.php:132 template/private-profile/listing-edit.php:235
+#: template/private-profile/new-listing.php:217
+msgid "Post for the Day"
+msgstr ""
+
+#: admin/pages/record_fields.php:19 admin/pages/report_pdf_fields.php:54
+msgid "Post Meta Name"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:77
+#: template/private-profile/new-listing.php:51
+msgid "Post Type"
+msgstr ""
+
+#: admin/pages/post_type.php:17
+msgid "Post Type Name"
+msgstr ""
+
+#: template/private-profile/comments.php:87
+msgid "Posting too quickly"
+msgstr ""
+
+#: admin/pages/paypal_update.php:62 admin/pages/stripe_update.php:73
+msgid "Pounds Sterling (£)"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:370
+msgid "Previous"
+msgstr ""
+
+#: admin/pages/settings.php:364
+msgid "Price Listing"
+msgstr ""
+
+#: plugin.php:396
+msgid "Pricing Table"
+msgstr ""
+
+#: template/private-profile/comments.php:88
+#: template/private-profile/profile-level-1.php:135
+#: template/private-profile/profile-template-1.php:360
+msgid "Processing"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:8
+msgid "Profile"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:41
+msgid "Psot Type"
+msgstr ""
+
+#: plugin.php:456
+msgid "Public Profile "
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:87
+msgid "Re-type New Password"
+msgstr ""
+
+#: admin/pages/post_type.php:37 admin/pages/post_type.php:103
+msgid "Recipes"
+msgstr ""
+
+#: template/private-profile/trainer-dashboard.php:70
+#: template/private-profile/trainer-dashboard.php:75
+msgid "Record"
+msgstr ""
+
+#: admin/pages/record_fields.php:9 admin/pages/record_fields.php:14
+#: admin/pages/settings.php:15
+msgid "Record Fields"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:66
+#: template/private-profile/record-new-pt.php:54
+msgid "Record For"
+msgstr ""
+
+#: admin/pages/package_create.php:104 admin/pages/package_update.php:108
+msgid "Recurring Subscription"
+msgstr ""
+
+#: admin/pages/settings.php:13
+msgid "Registration/profile Fields"
+msgstr ""
+
+#: admin/pages/settings.php:671
+msgid "Reminder Email"
+msgstr ""
+
+#: admin/pages/reminder_email.php:3
+msgid "Reminder Email Subject :"
+msgstr ""
+
+#: admin/pages/reminder_email.php:17
+msgid "Reminder Email Tempalte : "
+msgstr ""
+
+#: template/private-profile/all-save-records.php:248
+#: template/private-profile/comments.php:89
+#: template/private-profile/edit_report.php:144
+#: template/private-profile/my-report.php:113
+#: template/private-profile/new-listing.php:242
+#: template/private-profile/new_report.php:148
+#: template/private-profile/profile-new-record.php:85
+#: template/private-profile/profile-record-edit.php:119
+#: template/private-profile/profile-setting-1.php:151
+#: template/private-profile/profile-template-1.php:357
+#: template/private-profile/record-edit-pt.php:141
+#: template/private-profile/record-new-pt.php:145
+msgid "Remove"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:136
+#: template/private-profile/my-report.php:64
+#: template/private-profile/trainer-dashboard.php:71
+#: template/private-profile/trainer-dashboard.php:76
+msgid "Report"
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:10 admin/pages/report_pdf_fields.php:15
+msgid "Report Fields"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:41
+#: template/private-profile/edit_report.php:39
+#: template/private-profile/new_report.php:39
+msgid "Report For"
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:20
+msgid "Report Title"
+msgstr ""
+
+#: admin/pages/profile-fields.php:230
+msgid "Require"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:38
+msgid "Role"
+msgstr ""
+
+#: admin/pages/user_update.php:101
+msgid "Role Content Only"
+msgstr ""
+
+#: admin/pages/paypal_update.php:85 admin/pages/stripe_update.php:96
+msgid "Russian Ruble"
+msgstr ""
+
+#: template/price-table/price-table-1.php:89
+#: template/private-profile/profile-level-1.php:75
+#: template/private-profile/profile-level-1.php:267
+#: template/private-profile/profile-level-1.php:341
+msgid "s"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:72
+#: template/private-profile/profile-setting-1.php:132
+msgid "Save Changes"
+msgstr ""
+
+#: admin/pages/coupon_create.php:5 admin/pages/coupon_create.php:85
+msgid "Save Coupon"
+msgstr ""
+
+#: admin/pages/package_create.php:12 admin/pages/package_create.php:245
+msgid "Save Package"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:242
+#: template/private-profile/new-listing.php:224
+msgid "Save Post"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:66
+#: template/private-profile/record-new-pt.php:126
+msgid "Save Record"
+msgstr ""
+
+#: template/private-profile/edit_report.php:128
+#: template/private-profile/new_report.php:131
+msgid "Save Report"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:38
+msgid "Saved Record"
+msgstr ""
+
+#: template/private-profile/all-save-records.php:146
+#: template/private-profile/profile-all-record.php:39
+msgid "Saved Records"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:28
+msgid "Saved Report"
+msgstr ""
+
+#: template/private-profile/all-save-post.php:101
+#: template/private-profile/all-save-records.php:106
+#: template/private-profile/all-save-report.php:77
+#: template/private-profile/profile-template-1.php:361
+msgid "Search"
+msgstr ""
+
+#: plugin.php:241 plugin.php:345
+msgid "Search Item"
+msgstr ""
+
+#: admin/pages/package_create.php:34 admin/pages/package_update.php:38
+msgid "Select A Trainer"
+msgstr ""
+
+#: admin/pages/coupon_create.php:66 admin/pages/coupon_create.php:72
+msgid "Select Date"
+msgstr ""
+
+#: admin/pages/metabox.php:104
+msgid "Select Products, The product buyer will get the content access :"
+msgstr ""
+
+#: admin/pages/settings.php:111
+msgid "Select which contents are available for each user role."
+msgstr ""
+
+#: admin/pages/post_type.php:80
+msgid "Select Your Custom Post Type Single/Detail Page"
+msgstr ""
+
+#: admin/pages/metabox.php:79
+msgid "Select your specific users :"
+msgstr ""
+
+#: template/private-profile/listing-edit.php:212
+#: template/private-profile/new-listing.php:202
+msgid "Select your specific users : Hold shift to select more than 1 user"
+msgstr ""
+
+#: template/private-profile/comments.php:72
+msgid "Send"
+msgstr ""
+
+#: admin/pages/reminder_email.php:36
+msgid "Send Email Before # Days :"
+msgstr ""
+
+#: admin/admin.php:193 admin/pages/metabox.php:153
+#: template/private-profile/all-save-records.php:245
+#: template/private-profile/edit_report.php:142
+#: template/private-profile/my-report.php:111
+#: template/private-profile/new-listing.php:240
+#: template/private-profile/new_report.php:146
+#: template/private-profile/profile-new-record.php:83
+#: template/private-profile/profile-record-edit.php:117
+#: template/private-profile/profile-setting-1.php:149
+#: template/private-profile/profile-template-1.php:353
+#: template/private-profile/record-edit-pt.php:139
+#: template/private-profile/record-new-pt.php:143
+msgid "Set Image"
+msgstr ""
+
+#: plugin.php:1529 admin/pages/dir_setting.php:1
+msgid "Settings"
+msgstr ""
+
+#: admin/pages/package_all.php:181
+msgid "Short Code "
+msgstr ""
+
+#: admin/pages/reminder_email.php:51
+msgid "Short Code:"
+msgstr ""
+
+#: admin/pages/dir_setting.php:32
+msgid "Show  Done Button"
+msgstr ""
+
+#: plugin.php:487
+msgid "Show  number of user / Page"
+msgstr ""
+
+#: admin/pages/settings.php:99
+msgid "Show All"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:364
+msgid "Showing page _PAGE_ of _PAGES_"
+msgstr ""
+
+#: template/private-profile/profile-login.php:13
+msgid "Sign In"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:217
+msgid "Sign out"
+msgstr ""
+
+#: template/price-table/price-table-1.php:122
+msgid "Sign up"
+msgstr ""
+
+#: plugin.php:416
+msgid "Signup "
+msgstr ""
+
+#: admin/pages/settings.php:542
+msgid "Signup / Forget password Email"
+msgstr ""
+
+#: admin/pages/profile-fields.php:227
+msgid "Signup Form"
+msgstr ""
+
+#: admin/pages/settings.php:408
+msgid "Signup Thanks"
+msgstr ""
+
+#: admin/pages/settings.php:746
+msgid "Signup user email address will go to the mailchimp list"
+msgstr ""
+
+#: admin/pages/stripe_update.php:91
+msgid "Singapore Dollar ($"
+msgstr ""
+
+#: admin/pages/paypal_update.php:80
+msgid "Singapore Dollar ($)"
+msgstr ""
+
+#: admin/pages/dir_setting.php:22
+msgid "Single Page Done Option"
+msgstr ""
+
+#: admin/pages/package_create.php:38 admin/pages/package_update.php:42
+msgid "Site Admin"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:18
+msgid "Social"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:122
+msgid "Social Profile"
+msgstr ""
+
+#: plugin.php:1542
+msgid "Sorry! You are not allowed for signup."
+msgstr ""
+
+#: template/private-profile/post-list-pt.php:186
+#: template/private-profile/post-list.php:180
+#: template/private-profile/training-calendar-pt.php:114
+#: template/private-profile/training-calendar.php:135
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: template/user-directory/directory-template-2.php:26
+msgid "Sort By:"
+msgstr ""
+
+#: admin/pages/paypal_update.php:81 admin/pages/stripe_update.php:92
+msgid "South African Rand"
+msgstr ""
+
+#: admin/pages/paypal_update.php:82 admin/pages/stripe_update.php:93
+msgid "South Korean Won"
+msgstr ""
+
+#: admin/pages/user_update.php:105
+msgid "Specific Content Only"
+msgstr ""
+
+#: admin/pages/all_coupons.php:42 admin/pages/coupon_create.php:64
+#: admin/pages/coupon_update.php:83
+msgid "Start Date"
+msgstr ""
+
+#: admin/pages/package_all.php:91 admin/pages/payment-settings.php:37
+msgid "Status"
+msgstr ""
+
+#: admin/pages/payment-settings.php:58
+msgid "Stripe"
+msgstr ""
+
+#: admin/pages/stripe_update.php:65
+msgid "Stripe API Currency Code"
+msgstr ""
+
+#: admin/pages/stripe_update.php:16
+msgid "Stripe Api Settings"
+msgstr ""
+
+#: admin/pages/package_create.php:116 admin/pages/package_update.php:120
+msgid "Stripe Plan Name(not ID)"
+msgstr ""
+
+#: admin/pages/stripe_update.php:113
+msgid ""
+"Stripe Test to Live mode:\n"
+"\t\t\t\t\t\tWhen turned from Test to Live did not have any of the plans you "
+"are created on Stripe.\n"
+"\t\t\t\t\t\tWhen you will switch from Stripe to Paypal and PayPal to Stripe "
+"again, the connection between  WP Memembership plugin and Stripe was "
+"corrected and thus the plans were re-created in the Stripe account.\n"
+"\t\t\t\t\t"
+msgstr ""
+
+#: plugin.php:406 plugin.php:426 plugin.php:446 plugin.php:467
+msgid "Style Name"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:122
+#: template/private-profile/profile-login.php:84
+#: template/signup/iv_stripe_form_2.php:143
+#: template/signup/paypal_form_2.php:109 template/signup/paypal_form_2.php:114
+#: template/signup/wizard-style-2.php:169 template/signup/woocommerce.php:96
+#: template/signup/woocommerce.php:101
+msgid "Submit"
+msgstr ""
+
+#: plugin.php:1531
+msgid "Support"
+msgstr ""
+
+#: admin/pages/paypal_update.php:83 admin/pages/stripe_update.php:94
+msgid "Swedish Krona"
+msgstr ""
+
+#: admin/pages/paypal_update.php:84 admin/pages/stripe_update.php:95
+msgid "Swiss Franc"
+msgstr ""
+
+#: plugin.php:314
+msgid "Tags"
+msgstr ""
+
+#: admin/pages/paypal_update.php:86 admin/pages/stripe_update.php:97
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: admin/pages/settings.php:300
+msgid "Terms CheckBox"
+msgstr ""
+
+#: admin/pages/stripe_update.php:108
+msgid "test"
+msgstr ""
+
+#: admin/pages/paypal_update.php:30 admin/pages/stripe_update.php:31
+msgid "Test Mode"
+msgstr ""
+
+#: admin/pages/stripe_update.php:59
+msgid "Test Publishable"
+msgstr ""
+
+#: admin/pages/stripe_update.php:53
+msgid "Test Secret"
+msgstr ""
+
+#: admin/pages/paypal_update.php:87 admin/pages/stripe_update.php:98
+msgid "Thai Baht"
+msgstr ""
+
+#: template/private-profile/comments.php:86
+msgid "Thanks for your comment. We appreciate your response"
+msgstr ""
+
+#: admin/pages/package_create.php:147 admin/pages/package_update.php:151
+msgid "The \"Billing Amount\" will Collect at User Registration."
+msgstr ""
+
+#: admin/pages/all_coupons.php:30
+msgid "The Coupon Create Successfully"
+msgstr ""
+
+#: admin/pages/package_update.php:75
+msgid "The Initial Amount Collected at User Registration."
+msgstr ""
+
+#: admin/pages/package_create.php:70
+msgid "The initial amount collected at user registration."
+msgstr ""
+
+#: admin/pages/package_create.php:121 admin/pages/package_update.php:125
+msgid ""
+"The plugin will create the Plan on Stripe account automatically. If you get "
+"any payment error then you need to create a Plan on your stripe "
+"account/dashboard( <a href=\"https://dashboard.stripe."
+"com/subscriptions/products\" target=\"_blank\">https://dashboard.stripe."
+"com/subscriptions/products </a> ) and add the name here."
+msgstr ""
+
+#: admin/pages/package_create.php:48 admin/pages/package_update.php:54
+msgid "The trainer(user) can add plans for the package clients"
+msgstr ""
+
+#: plugin.php:592
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: template/signup/coupon_form_2.php:15
+msgid "Total"
+msgstr ""
+
+#: template/private-profile/trainer_menu.php:4
+msgid "Trainer Dashboard"
+msgstr ""
+
+#: template/private-profile/trainer-dashboard.php:31
+msgid "Trainer Dashboard : My Clients"
+msgstr ""
+
+#: admin/pages/dir_setting.php:48
+msgid "Training calendar View Days"
+msgstr ""
+
+#: admin/pages/dir_setting.php:41
+msgid "Training Calendar view Option "
+msgstr ""
+
+#: admin/pages/post_type.php:33 admin/pages/post_type.php:99
+msgid "Training Plans"
+msgstr ""
+
+#: admin/pages/package_create.php:168 admin/pages/package_update.php:172
+msgid "Trial"
+msgstr ""
+
+#: admin/pages/package_create.php:179 admin/pages/package_update.php:183
+msgid "Trial Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:186 admin/pages/package_update.php:190
+msgid "Trial Period"
+msgstr ""
+
+#: admin/pages/paypal_update.php:88 admin/pages/stripe_update.php:99
+msgid "Turkish Lira"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:107
+msgid "Twitter"
+msgstr ""
+
+#: admin/pages/dir_setting.php:72 admin/pages/post_type.php:63
+#: admin/pages/post_type.php:132 admin/pages/profile-fields.php:10
+#: admin/pages/profile-fields.php:298 admin/pages/record_fields.php:75
+#: admin/pages/report_pdf_fields.php:112 admin/pages/settings.php:210
+#: admin/pages/settings.php:292 admin/pages/settings.php:341
+#: admin/pages/settings.php:508
+#: template/private-profile/all-save-records.php:214
+msgid "Update"
+msgstr ""
+
+#: admin/pages/coupon_update.php:19 admin/pages/coupon_update.php:108
+msgid "Update Coupon"
+msgstr ""
+
+#: admin/pages/coupon_update.php:23
+msgid "Update Coupon "
+msgstr ""
+
+#: admin/pages/settings.php:519 admin/pages/settings.php:680
+msgid "Update Email Setting"
+msgstr ""
+
+#: plugin.php:239 plugin.php:343
+msgid "Update Item"
+msgstr ""
+
+#: admin/pages/settings.php:753
+msgid "Update MailChimp Setting"
+msgstr ""
+
+#: admin/pages/package_update.php:14 admin/pages/package_update.php:254
+msgid "Update Package"
+msgstr ""
+
+#: admin/pages/package_update.php:18
+msgid "Update Package / Membership Level"
+msgstr ""
+
+#: admin/pages/profile-fields.php:15
+msgid "Update Profile Setting"
+msgstr ""
+
+#: template/private-profile/profile-record-edit.php:97
+#: template/private-profile/record-edit-pt.php:119
+msgid "Update Record"
+msgstr ""
+
+#: admin/pages/paypal_update.php:97 admin/pages/stripe_update.php:108
+msgid "Update Settings"
+msgstr ""
+
+#: admin/admin.php:481 admin/admin.php:508 admin/admin.php:530
+#: admin/admin.php:557 admin/admin.php:583 admin/pages/package_all.php:56
+msgid "Update Successfully"
+msgstr ""
+
+#: admin/pages/user_update.php:122
+msgid "Update User"
+msgstr ""
+
+#: plugin.php:390 plugin.php:596 plugin.php:661 plugin.php:777 plugin.php:862
+#: plugin.php:871 plugin.php:890 plugin.php:912 plugin.php:927 plugin.php:950
+#: plugin.php:1073 plugin.php:1134 plugin.php:1176 admin/admin.php:1103
+msgid "Updated Successfully"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:15
+#: template/private-profile/profile-level-1.php:280
+#: template/private-profile/profile-level-1.php:354
+msgid "Upgrade"
+msgstr ""
+
+#: admin/pages/paypal_update.php:60 admin/pages/stripe_update.php:71
+msgid "US Dollars ($)"
+msgstr ""
+
+#: admin/pages/coupon_create.php:58 admin/pages/coupon_update.php:77
+msgid "Usage Limit"
+msgstr ""
+
+#: plugin.php:477
+msgid "User Directory "
+msgstr ""
+
+#: admin/pages/settings.php:623
+msgid "User Email Subject"
+msgstr ""
+
+#: admin/pages/settings.php:632
+msgid "User Email Tempalte"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:94
+msgid "User Information"
+msgstr ""
+
+#: admin/pages/profile-fields.php:221
+msgid "User Meta Name"
+msgstr ""
+
+#: admin/pages/settings.php:452
+msgid "User My Account"
+msgstr ""
+
+#: admin/pages/settings.php:244
+msgid "User My Account Page Redirect"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:34 admin/pages/user_update.php:21
+#: template/signup/wizard-style-2.php:106
+msgid "User Name"
+msgstr ""
+
+#: template/private-profile/trainer-dashboard.php:39
+msgid "User Name/ Email"
+msgstr ""
+
+#: admin/pages/user_update.php:48
+msgid "User Package"
+msgstr ""
+
+#: admin/pages/profile-fields.php:217
+msgid "User Profile Fields +Signup Form Fields"
+msgstr ""
+
+#: admin/pages/settings.php:474
+msgid "User Public Profile"
+msgstr ""
+
+#: admin/pages/settings.php:260
+msgid "User Public Profile Page Redirect"
+msgstr ""
+
+#: admin/pages/settings.php:228
+msgid "User Registration Page Redirect"
+msgstr ""
+
+#: admin/pages/package_all.php:90 admin/pages/user_update.php:33
+#: template/private-profile/profile-level-1.php:155
+msgid "User Role"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:10
+msgid "User Setting"
+msgstr ""
+
+#: admin/pages/user_update.php:10
+msgid "User Settings: Edit"
+msgstr ""
+
+#: admin/pages/settings.php:386
+msgid "User Sign Up"
+msgstr ""
+
+#: template/private-profile/profile-login.php:20
+#: template/private-profile/profile-login.php:23
+msgid "Username"
+msgstr ""
+
+#: admin/pages/all_coupons.php:44
+msgid "Uses Limit"
+msgstr ""
+
+#: admin/pages/settings.php:381 admin/pages/settings.php:403
+#: admin/pages/settings.php:425 admin/pages/settings.php:447
+#: admin/pages/settings.php:469 admin/pages/settings.php:491
+#: template/private-profile/trainer-dashboard.php:41
+msgid "View"
+msgstr ""
+
+#: template/private-profile/all-save-report.php:152
+#: template/private-profile/my-report.php:87
+msgid "View / Download"
+msgstr ""
+
+#: template/private-profile/post-list-pt.php:165
+#: template/private-profile/post-list.php:163
+msgid "VIEW DETAIL"
+msgstr ""
+
+#: plugin.php:240 plugin.php:344
+msgid "View Item"
+msgstr ""
+
+#: admin/pages/package_all.php:192
+msgid "View Page"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:123
+msgid "Vimeo"
+msgstr ""
+
+#: admin/pages/settings.php:71
+msgid "Visibility Control"
+msgstr ""
+
+#: admin/pages/settings.php:202
+msgid "Visitor Message"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:117
+msgid "Website:"
+msgstr ""
+
+#: template/price-table/price-table-1.php:52
+#: template/private-profile/all-save-records.php:173
+#: template/private-profile/profile-all-record.php:81
+msgid "Week"
+msgstr ""
+
+#: template/private-profile/profile-new-record.php:21
+#: template/private-profile/profile-record-edit.php:49
+#: template/private-profile/record-edit-pt.php:72
+#: template/private-profile/record-new-pt.php:80
+msgid "Week #"
+msgstr ""
+
+#: admin/pages/package_create.php:94 admin/pages/package_create.php:141
+#: admin/pages/package_create.php:200 admin/pages/package_update.php:98
+#: admin/pages/package_update.php:145 admin/pages/package_update.php:207
+msgid "Week(s)"
+msgstr ""
+
+#: admin/pages/report_pdf_fields.php:31
+msgid "Who can create/add Report"
+msgstr ""
+
+#: admin/pages/payment-settings.php:70
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/pages/user_update.php:109
+msgid "Woocommerce Content"
+msgstr ""
+
+#: admin/pages/package_create.php:219 admin/pages/package_update.php:227
+msgid "Woocommerce Product"
+msgstr ""
+
+#: admin/pages/metabox.php:50
+msgid "Woocommerce Products"
+msgstr ""
+
+#: template/price-table/price-table-1.php:54
+msgid "year"
+msgstr ""
+
+#: admin/pages/package_create.php:96 admin/pages/package_create.php:143
+#: admin/pages/package_create.php:202 admin/pages/package_update.php:100
+#: admin/pages/package_update.php:147 admin/pages/package_update.php:209
+msgid "Year(s)"
+msgstr ""
+
+#: admin/pages/new-message.php:11
+msgid "Yes, Admin will  get all message."
+msgstr ""
+
+#: plugin.php:470
+msgid "You can select the style from wp-admin e.g : style-1 , style-2 "
+msgstr ""
+
+#: plugin.php:409
+msgid "You can select the style from wp-admin e.g : style-1."
+msgstr ""
+
+#: plugin.php:490
+msgid "You can set the number : 10,20 "
+msgstr ""
+
+#: template/private-profile/done_shortcode.php:22
+msgid "You have successfully completed the "
+msgstr ""
+
+#: template/private-profile/profile-single-post.php:84
+msgid "You have successfully completed the course!  "
+msgstr ""
+
+#: template/private-profile/done_shortcode.php:35
+#: template/private-profile/profile-single-post.php:103
+msgid "You have successfully completed the training"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:107
+#: template/signup/paypal_form_2.php:85
+msgid "You have to agree to our terms"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:127
+msgid "YouTube"
+msgstr ""

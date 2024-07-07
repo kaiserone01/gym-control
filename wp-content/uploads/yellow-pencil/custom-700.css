@@ -1,0 +1,58 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. Global Styles
+    02. "Control Gym Acceso" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  Global Styles                                */
+/*-----------------------------------------------*/
+body .site-branding img, body .widget .about-info-img img{
+	max-width: 300px;
+}
+
+body .gmgt-footer{
+	width: 100%;
+	display: inline-block;
+	background: #F2F5FA;
+	display: none;
+}
+
+body #loginform .login-submit input{
+	border-radius: 28px;
+	padding: 8px 60px !important;
+	background-color: #ff5e17;
+	border: 0px !important;
+	color: #ffffff !important;
+	font-size: 20px !important;
+	text-transform: uppercase !important;
+	text-decoration: none !important;
+	width: 50%;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Control Gym Acceso" Page                    */
+/*-----------------------------------------------*/
+body.page-id-6 #loginform .login-submit input{
+	border-radius: 28px;
+	padding: 8px 60px !important;
+	background-color: #ff5e17;
+	border: 0px !important;
+	color: #ffffff !important;
+	font-size: 20px !important;
+	text-transform: uppercase !important;
+	text-decoration: none !important;
+	width: 50%;
+}

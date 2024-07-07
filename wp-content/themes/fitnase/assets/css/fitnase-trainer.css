@@ -1,0 +1,124 @@
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate,
+.table-striped>tbody>tr:nth-of-type(odd),
+#directory-temp h5,.sort-by,.form-content .form-group label,
+#profile-template-5 .profile-desc-text strong, #profile-template-5 .profile-desc-link strong,
+#login-2 .content .create-account p,
+#login-2 .form-control-solid{
+    color: #939393 !important;
+}
+
+div#profile-account2 table, div#profile-account2 table td, div#profile-account2 table th{
+    border-top: 2px solid #2a2a2a !important;
+    border-right: 0px solid #2a2a2a !important;
+    border-bottom: 2px solid #2a2a2a !important;
+    border-left: 0px solid #2a2a2a !important;
+}
+#profile-account2 .portlet,
+#profile-account2 .profile-content,
+#profile-account2 .caption,
+#profile-account2 .active,
+#directory-temp .ch-grid,
+.directory-option,
+#profile-template-5 .profile-sidebar,
+#profile-template-5 .portlet,
+#profile-template-5 .caption-subject,
+.profile-content,
+#login-2 .content,#login-2 h3,
+#login-2 .content .create-account{
+    background-color: #20201f !important;
+}
+
+#profile-account2 label {
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 10px;
+    background-color: transparent !important;
+    color: #ffffff;
+}
+
+#profile-account2 label input, #profile-account2 label select,
+.profile-content input,
+.profile-content select,
+.directory-option select,
+.search-username input{
+    color: #939393 !important;
+    background: #191918 !important;
+    border-radius: 5px;
+    border: 2px solid #2a2a2a !important;
+}
+
+#profile-account2 .profile-usermenu ul li a:hover,
+.profile-usermenu ul li.active a,
+#profile-account2 .nav-tabs,
+.bootstrap-wrapper .panel-default,
+.bootstrap-wrapper .panel-default > .panel-heading,
+#login-2 .form-control-solid{
+    background-color: #191918 !important;
+}
+
+
+#profile-account2 .portlet-title .nav li a:hover,
+#profile-account2 .portlet-title .nav li.active a{
+    background-color: #2a2a2a !important;
+
+}
+
+#profile-account2 .portlet-title .nav li a,
+div#profile-account2 .caption-subject,
+#profile-account2 .tab-content .table tbody tr td,
+#profile-template-5 .portlet h4,
+#login-2 h3{
+    color: #ffffff !important;
+}
+
+
+#profile-account2 .profile-usermenu ul li:first-child{
+    border-top:2px solid #2a2a2a !important;
+}
+
+#profile-account2 .profile-usermenu ul li,
+#profile-account2 .tabbable-line,
+#profile-template-5 .portlet h4,
+#profile-template-5 .tabbable-line{
+    border-bottom:2px solid #2a2a2a !important;
+}
+
+#profile-account2 .profile-userpic img,
+#profile-account2 .profile-content,
+.bootstrap-wrapper .panel-default,
+.bootstrap-wrapper .panel-default > .panel-heading,
+#directory-temp .ch-grid,#login-2 .content,
+#profile-template-5 .profile-userpic img,
+#login-2 .form-control-solid{
+    border: 2px solid #2a2a2a !important;
+}
+
+#profile-account2 .caption-subject,
+#profile-account2 .profile-usertitle-name,
+.bootstrap-wrapper .panel-default > .panel-heading,
+#profile-template-5 .caption-subject,
+.bootstrap-wrapper a{
+    color: #ffffff !important;
+}
+
+#profile-account2 .nav-tabs li,
+#profile-account2 .portlet-title .nav li.active a,
+div#profile-account2 .nav-tabs li a{
+    border: transparent !important;
+    border-bottom: 2px solid transparent !important;
+}
+
+.bootstrap-wrapper a:hover{
+    color: #ff5e17 !important;;
+}
+
+#profile-account2 button[type='button'],
+#profile-account2 button[type='submit'],
+#profile-account2 span .btn,
+.btn-new.btn-custom{
+    background-color: #ff5e17 !important;
+    border-color: #ff5e17 !important;
+}
